@@ -8,4 +8,4 @@ The next tasks are as follows:
 - [ ] Translate the rule in English.
 - [ ] Translate the rule in Esperanto.
 - [ ] Translate the rule in Portuguese.
-- [ ] 
+
