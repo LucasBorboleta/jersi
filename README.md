@@ -9,3 +9,5 @@ On a **hexagonal board**, each player moves his/her colored pieces, called forms
 **Kunti** is the weakest form, but there are no strongest from amongst **cukla**, **kurfa** and **kuctai**. So the aim of the game is use space and time for **breaking** such a **symmetry**.
 
 If you intent to derive or to sell either a text, a product or a software from this work, then read the [**LICENSE**](./docs/LICENSE.md) document.
+
+![](./pictures/jersi-fait-main.jpg)
