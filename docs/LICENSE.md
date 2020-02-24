@@ -1,12 +1,9 @@
 # LICENSE
 
-[![Creative Commons License](../pictures/CC-BY-SA.png)](http://creativecommons.org/licenses/by-sa/4.0)
+[![Creative Commons License](../pictures/CC-BY-NC-SA.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-JERSI is an abstract strategy game for two players.
+Copyright (C) 2020 Lucas Borboleta.
 
-Copyright (C) 2019 Lucas Borboleta ([lucas.borboleta@free.fr](mailto:lucas.borboleta@free.fr)).
+JERSI, rules of an abstract game for two players, by Lucas Borboleta (https://github.com/LucasBorboleta/jersi) is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
 
-This work by Lucas Borboleta is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit <http://creativecommons.org/licenses/by-sa/4.0>.
-
-Attribute work to URL http://lucas.borboleta.blog.free.fr and also <https://github.com/LucasBorboleta/jersi>.
-
+Permissions beyond the scope of this license may be available at [lucas.borboleta@free.fr](mailto:lucas.borboleta@free.fr).

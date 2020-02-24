@@ -2,6 +2,7 @@
 Next major tasks:
 
 - [ ] Explore new kinds of shape like the guardian "**mokca**".
+- [ ] Explore new mechanisms that could serve the player's strategy. 
 
 Maybe/later tasks:
 
