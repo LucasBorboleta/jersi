@@ -1,7 +1,9 @@
 # TODO
-The next tasks are as follows:
+Next major tasks:
 
-- [ ] Test session for version 3 of the rules; especially the standard setting.
-- [ ] Explore new options like the guardian "**mokca**".
+- [ ] Explore new kinds of shape like the guardian "**mokca**".
+
+Maybe/later tasks:
+
 - [ ] Write a script for a YouTube video that is short and clear (more than existing video-rule).
 - [ ] Propose material to be downloaded for crafting the board.
