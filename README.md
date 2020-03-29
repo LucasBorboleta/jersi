@@ -4,7 +4,7 @@
 
 **Jersi** describes the rules of an **abstract game** for two players:
 
-> Your white shapes chase after your opponent's black in order to capture their unique black “**kunti**”, and vice versa. On the hexagonal board, stacks project your forces and protect your forms from enemy threats. But not completely, because a ternary and cyclical order governs the forces. So, you will have to stack and unstack your shapes at the right time and in the right place!
+> *Your white pieces challenge your opponent's blacks in order to route your precious white "**kunti**" to the most distant opposing row, and vice versa. On hexagonal terrain, stacks project your forces and protect your pieces from enemy threats. But not completely, because a cyclical and ternary order governs the strengths of the centerpieces. So you will have to stack and unstack your parts at the right time and in the right place!*
 
 Unless you are interested in the latest rules being under construction, it is better to read the released versions either in directory [**releases**](./releases) or at GitHub URL [**releases**](https://github.com/LucasBorboleta/jersi/releases).
 
