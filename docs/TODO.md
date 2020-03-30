@@ -1,10 +1,11 @@
 # TODO
 Next major tasks:
 
-- [ ] Explore new kinds of shape like the guardian "**mokca**".
-- [ ] Explore new mechanisms that could serve the player's strategy. 
+- [ ] Implement JERSI 4.0 on Tabletopia virtual plateform.
+- [ ] Enroll people in testing sessions.
+- [ ] Create social event.
 
 Maybe/later tasks:
 
 - [ ] Write a script for a YouTube video that is short and clear (more than existing video-rule).
-- [ ] Propose material to be downloaded for crafting the board.
+- [ ] Propose material to be downloaded for hand-crafting the board.
