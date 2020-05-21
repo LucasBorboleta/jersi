@@ -8,7 +8,7 @@
 
 To get a taste of the game watch this 3 minutes video: [**JERSI 4.0 demo play**](https://www.youtube.com/watch?v=IrIyDZNiCGI). To go further, move on [**Tabletopia**](https://tabletopia.com/) platform and test the game with your friend in the following  **[play zone](https://tabletopia.com/workshop/widget/jersi-ae2mkk/680x340)**.
 
-The game is not yet finished, so any feedback on the text or even the game play is welcome!
+The game is not yet finished, so any feedback on the text or even on the game play is welcome!
 
 Unless you are interested in the latest rules being under construction, it is better to read the released versions either in directory [**releases**](./releases) or at GitHub URL [**releases**](https://github.com/LucasBorboleta/jersi/releases).
 
