@@ -2,7 +2,7 @@
 
 
 
-**Jersi** describes the rules of an **abstract game** for two players:
+**Jersi** describes the rules of a **strategy game** for two players:
 
 > The players embody two armies of cubes which compete on a game board. Each player must bring his king to the opposite edge of the board and thus win the war. The cubes move on the board or are parachuted from the players' reserves. Stacks of cubes move faster and capture from a greater distance than cubes alone. Beware of accelerations!
 

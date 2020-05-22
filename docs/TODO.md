@@ -1,7 +1,7 @@
 # TODO
 Next major tasks:
 
-- [ ] More power to the wise man; but only some defensive power:
+- [ ] Give more power to the wise man; but only a defensive power:
   - [ ] Only the foul can capture the wise. Cons: the wise would become too much powerful.
   - [ ] The foul cannot capture the wise, only rock/paper/scissors can.
   - [ ] The wise can move mountain of the same color. Cons: it creates an exception in the rules. So is it useful?
