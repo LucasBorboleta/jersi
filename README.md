@@ -6,7 +6,7 @@
 
 > The players embody two armies of cubes which compete on a game board. Each player must bring his king to the opposite edge of the board and thus win the war. The cubes move on the board or are parachuted from the players' reserves. Stacks of cubes move faster and capture from a greater distance than cubes alone. Beware of accelerations!
 
-To get a taste of the game watch this 3 minutes video: [**JERSI 4.0 demo play**](https://www.youtube.com/watch?v=IrIyDZNiCGI). To go further, move on [**Tabletopia**](https://tabletopia.com/) platform and test the game with your friend in the following  **[play zone](https://tabletopia.com/workshop/widget/jersi-ae2mkk/680x340)**.
+To get a taste of the game watch this 3 minutes video: [**JERSI 4.3 demo play**](https://www.youtube.com/watch?v=Cgo8AJnYCfA). To go further, move on [**Tabletopia**](https://tabletopia.com/) platform and test the game with your friend in the following  **[play zone](https://tabletopia.com/workshop/widget/jersi-ae2mkk/680x340)**.
 
 Unless you are interested in the latest rules being under construction, it is better to read the released versions either in directory [**releases**](./releases) or at GitHub URL [**releases**](https://github.com/LucasBorboleta/jersi/releases).
 
