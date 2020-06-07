@@ -1,11 +1,9 @@
 # TODO
 Next tasks:
 
-- [ ] Make the game ready for free publishing in the official catalog of Tabletopia.
-- [ ] Get more feedback on the text of the rules.
-- [ ] Get a good English rulebook.
-- [ ] Enroll more people in testing sessions.
+- [ ] Get a better English rulebook.
 - [ ] Try new icons for the cubes.
+- [ ] Work an AI using an existing MCTS engine.
 
 Maybe/later tasks:
 
