@@ -1,8 +1,9 @@
 # TODO
 Next tasks:
 
-- [ ] Get a better English rulebook.
+- [ ] Detect and fix defects of the gameplay related to special strategies.
 - [ ] Try new icons for the cubes.
+- [ ] Get a better English rulebook.
 - [ ] Work an AI using an existing MCTS engine.
 
 Maybe/later tasks:
