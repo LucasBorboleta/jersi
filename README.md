@@ -20,6 +20,7 @@ Any *feedback* on the text or even on the game play is welcome!
 The **roadmap** is  as follows:
 
 - [x] Publish JERSI for free in the *Tabletopia* catalog.
+- [ ] Implement JERSI on Bord Game Arena.
 - [ ] Implement JERSI into an existing *AI engine*.
 - [ ] With the aid of a publisher partner, launch a *Kickstarter* campaign to physically publish JERSI. 
 
