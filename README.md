@@ -11,7 +11,7 @@
 > On his turn, the player performs simple or combined actions such as building a stack and moving it or moving a stack and unbuilding it: beware of accelerations and double captures!
 > Juggle the stacks and take advantage of the rock-paper-scissor cycle!
 
-To get a taste of the game watch this 3 minutes video: [**JERSI 4.3 demo play**](https://www.youtube.com/watch?v=Cgo8AJnYCfA). To go further, play the game with your friend on **[Tabletopia](https://tabletopia.com/games/jersi)** platform .
+To get a taste of the game watch this 3 minutes video: [**JERSI demo play**](https://www.youtube.com/watch?v=Cgo8AJnYCfA). To learn the rules of the game: either read the rulebook document or watch this 11 minutes rulebook video : [**JERSI rulebook video**](https://www.youtube.com/watch?v=9613QXbaYjo) (also available in French). To go further, play the game with your friend on **[Tabletopia](https://tabletopia.com/games/jersi)** platform .
 
 Unless you are interested in the latest rules being under construction, it is better to read the released versions either in directory [**releases**](./releases) or at GitHub URL [**releases**](https://github.com/LucasBorboleta/jersi/releases).
 
