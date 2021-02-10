@@ -1,8 +1,8 @@
 # TODO
 Next tasks:
 
-- [x] Implement JERSI on Bord Game Arena (BGA).
-- [ ] Work an AI using an existing MCTS engine.
+- [ ] Implement JERSI on Bord Game Arena (BGA).
+- [x] Work an AI using an existing MCTS engine.
 
 Maybe/later tasks:
 
