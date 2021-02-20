@@ -1,15 +1,10 @@
 # jersi
 
-
+![](./pictures/pure-style-start.jpg)
 
 JERSI describes the rules of a **strategy game** for two players:
 
-> The two **jersi** players embody two armies of cubes fighting on a game board. Each player must bring his king cube to the opposite edge of the board and thus win the war. At the start, on the board, alongside the king, each player has warrior cubes with emblems of rock, paper, scissors and also foul warriors. Then, from his reserve, each player can drop mountain or wise men cubes.
->
-> Each type of cube has a unique capacity. Thus, the king does not fight, but does not die: after its capture, it is sent back to its starting line. Cubes can be stacked for faster movement or to protect a threatened cube, indeed the power of a stack resides in the cube at its top. Cubes and stacks can fight each other.
->
-> On his turn, the player performs simple or combined actions such as building a stack and moving it or moving a stack and unbuilding it: beware of accelerations and double captures!
-> Juggle the stacks and take advantage of the rock-paper-scissor cycle!
+> With the wise men of the Jersi universe you will cross mountains, but beware of fools! In this chess game where rock, paper and scissors fight each other, the goal is for your king to cross the field. You move each cubic piece either individually or by stacking it on top of another which then acts as a quick mount.
 
 To get a taste of the game watch this 3 minutes video: [**JERSI demo play**](https://www.youtube.com/watch?v=Cgo8AJnYCfA). To learn the rules of the game: either read the rulebook document or watch this 11 minutes rulebook video: [**JERSI rulebook video**](https://www.youtube.com/watch?v=9613QXbaYjo) (also available in French). To go further, play the game with your friend on **[Tabletopia](https://tabletopia.com/games/jersi)** platform .
 
@@ -21,11 +16,10 @@ The **roadmap** is  as follows:
 
 - [x] Publish JERSI for free in the *Tabletopia* catalog.
 - [ ] Implement JERSI on Bord Game Arena.
-- [ ] Implement JERSI into an existing *AI engine*.
+- [x] Implement JERSI into an existing *AI engine* (worked, but currently, very very poorly performs ...)
 - [ ] With the aid of a publisher partner, launch a *Kickstarter* campaign to physically publish JERSI. 
 
 If you intent to derive or to sell either a text, a product or a software from this work, then read the [**LICENSE**](./docs/LICENSE.md) document. 
 
 Be aware that until JERSI v3.0 the applied license is CreativeCommons-BY-SA, but that the next versions do apply the license CreativeCommons-BY-NC-SA. 
 
-![](./pictures/fictive-game.png)
