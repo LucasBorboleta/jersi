@@ -1,10 +1,10 @@
 # jersi
 
-![](./pictures/pure-style-start.jpg)
-
 JERSI describes the rules of a **strategy game** for two players:
 
 > With the wise men of the Jersi universe you will cross mountains, but beware of fools! In this chess game where rock, paper and scissors fight each other, the goal is for your king to cross the field. You move each cubic piece either individually or by stacking it on top of another which then acts as a quick mount.
+
+![](./pictures/pure-style-start.jpg)
 
 To get a taste of the game watch this 3 minutes video: [**JERSI demo play**](https://www.youtube.com/watch?v=Cgo8AJnYCfA). To learn the rules of the game: either read the rulebook document or watch this 11 minutes rulebook video: [**JERSI rulebook video**](https://www.youtube.com/watch?v=9613QXbaYjo) (also available in French). To go further, play the game with your friend on **[Tabletopia](https://tabletopia.com/games/jersi)** platform .
 
