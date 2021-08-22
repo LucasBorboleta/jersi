@@ -15,9 +15,9 @@ Any *feedback* on the text or even on the game play is welcome!
 The **roadmap** is  as follows:
 
 - [x] Publish JERSI for free in the *Tabletopia* catalog.
+- [x] Implement JERSI into an *AI engines* (minimax and MCTS ; see *jersi-certu* project at GitHub).
 - [ ] Implement JERSI on Bord Game Arena.
-- [x] Implement JERSI into an existing *AI engine* (worked, but currently, very very poorly performs ...)
-- [ ] With the aid of a publisher partner, launch a *Kickstarter* campaign to physically publish JERSI. 
+- [x] With the aid of a publisher partner, launch a *Kickstarter* campaign to physically publish JERSI. 
 
 If you intent to derive or to sell either a text, a product or a software from this work, then read the [**LICENSE**](./docs/LICENSE.md) document. 
 
