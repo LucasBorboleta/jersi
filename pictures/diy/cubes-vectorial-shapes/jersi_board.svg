@@ -1,0 +1,5269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="20.841171907666453cm"
+   height="15.050237068537736cm"
+   viewBox="0 0 672 485"
+   id="svg4697"
+   sodipodi:docname="jersi_board_a3.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4701">
+    <defs
+       id="defs4693">
+      <font
+         id="Helvetica"
+         horiz-adv-x="0">
+        <font-face
+           font-family="Helvetica"
+           font-weight="bold"
+           font-style="normal"
+           font-size="100.00"
+           units-per-em="100.00"
+           ascent="100.53711"
+           descent="21.972656"
+           id="font-face4652" />
+        <missing-glyph
+           d=""
+           id="missing-glyph4654" />
+        <glyph
+           unicode="2"
+           horiz-adv-x="55.615"
+           d="M 50.594 12.750 L 50.594 -0.0000 L 2.4844 -0.0000 Q 3.2656 7.2344 7.1719 13.703 Q 11.078 20.172 22.609 30.859 Q 31.891 39.500 33.984 42.578 Q 36.812 46.828 36.812 50.984 Q 36.812 55.562 34.352 58.031 Q 31.891 60.500 27.547 60.500 Q 23.250 60.500 20.711 57.914 Q 18.172 55.328 17.781 49.312 L 4.1094 50.688 Q 5.3281 62.016 11.773 66.945 Q 18.219 71.875 27.875 71.875 Q 38.484 71.875 44.539 66.164 Q 50.594 60.453 50.594 51.953 Q 50.594 47.125 48.859 42.750 Q 47.125 38.375 43.359 33.594 Q 40.875 30.422 34.375 24.461 Q 27.875 18.500 26.148 16.547 Q 24.422 14.594 23.344 12.750 L 50.594 12.750 z"
+           id="glyph4656" />
+        <glyph
+           unicode="c"
+           horiz-adv-x="55.615"
+           d="M 52.391 36.531 L 38.875 34.078 Q 38.188 38.141 35.766 40.188 Q 33.344 42.234 29.500 42.234 Q 24.359 42.234 21.312 38.695 Q 18.266 35.156 18.266 26.859 Q 18.266 17.625 21.367 13.820 Q 24.469 10.016 29.688 10.016 Q 33.594 10.016 36.086 12.234 Q 38.578 14.453 39.594 19.875 L 53.078 17.578 Q 50.984 8.2969 45.023 3.5625 Q 39.062 -1.1719 29.047 -1.1719 Q 17.672 -1.1719 10.914 6.0078 Q 4.1562 13.188 4.1562 25.875 Q 4.1562 38.719 10.938 45.875 Q 17.719 53.031 29.297 53.031 Q 38.766 53.031 44.359 48.953 Q 49.953 44.875 52.391 36.531 z"
+           id="glyph4658" />
+        <glyph
+           unicode="b"
+           horiz-adv-x="61.084"
+           d="M 6.5938 -0.0000 L 6.5938 71.578 L 20.312 71.578 L 20.312 45.797 Q 26.656 53.031 35.359 53.031 Q 44.828 53.031 51.031 46.172 Q 57.234 39.312 57.234 26.469 Q 57.234 13.188 50.906 6.0078 Q 44.578 -1.1719 35.547 -1.1719 Q 31.109 -1.1719 26.789 1.0469 Q 22.469 3.2656 19.344 7.6250 L 19.344 -0.0000 L 6.5938 -0.0000 z M 20.219 27.047 Q 20.219 19.000 22.750 15.141 Q 26.312 9.6719 32.234 9.6719 Q 36.766 9.6719 39.969 13.555 Q 43.172 17.438 43.172 25.781 Q 43.172 34.672 39.945 38.602 Q 36.719 42.531 31.688 42.531 Q 26.766 42.531 23.492 38.695 Q 20.219 34.859 20.219 27.047 z"
+           id="glyph4660" />
+        <glyph
+           unicode="a"
+           horiz-adv-x="55.615"
+           d="M 17.438 36.031 L 4.9844 38.281 Q 7.0781 45.797 12.203 49.414 Q 17.328 53.031 27.438 53.031 Q 36.625 53.031 41.117 50.859 Q 45.609 48.688 47.438 45.344 Q 49.266 42.000 49.266 33.062 L 49.125 17.047 Q 49.125 10.203 49.781 6.9609 Q 50.438 3.7188 52.250 -0.0000 L 38.672 -0.0000 Q 38.141 1.3750 37.359 4.0469 Q 37.016 5.2812 36.859 5.6719 Q 33.344 2.2500 29.344 .53906 Q 25.344 -1.1719 20.797 -1.1719 Q 12.797 -1.1719 8.1797 3.1719 Q 3.5625 7.5156 3.5625 14.156 Q 3.5625 18.562 5.6641 22.000 Q 7.7656 25.438 11.547 27.273 Q 15.328 29.109 22.469 30.469 Q 32.078 32.281 35.797 33.844 L 35.797 35.203 Q 35.797 39.156 33.844 40.844 Q 31.891 42.531 26.469 42.531 Q 22.797 42.531 20.750 41.094 Q 18.703 39.656 17.438 36.031 z M 35.797 24.906 Q 33.156 24.031 27.445 22.805 Q 21.734 21.578 19.969 20.406 Q 17.281 18.500 17.281 15.578 Q 17.281 12.703 19.430 10.602 Q 21.578 8.5000 24.906 8.5000 Q 28.609 8.5000 31.984 10.938 Q 34.469 12.797 35.250 15.484 Q 35.797 17.234 35.797 22.172 L 35.797 24.906 z"
+           id="glyph4662" />
+        <glyph
+           unicode="i"
+           horiz-adv-x="27.783"
+           d="M 7.1719 58.891 L 7.1719 71.578 L 20.906 71.578 L 20.906 58.891 L 7.1719 58.891 z M 7.1719 -0.0000 L 7.1719 51.859 L 20.906 51.859 L 20.906 -0.0000 L 7.1719 -0.0000 z"
+           id="glyph4664" />
+        <glyph
+           unicode="h"
+           horiz-adv-x="61.084"
+           d="M 20.844 71.578 L 20.844 45.266 Q 27.484 53.031 36.719 53.031 Q 41.453 53.031 45.266 51.273 Q 49.078 49.516 51.008 46.781 Q 52.938 44.047 53.641 40.727 Q 54.344 37.406 54.344 30.422 L 54.344 -0.0000 L 40.625 -0.0000 L 40.625 27.391 Q 40.625 35.547 39.844 37.742 Q 39.062 39.938 37.086 41.234 Q 35.109 42.531 32.125 42.531 Q 28.719 42.531 26.031 40.867 Q 23.344 39.203 22.094 35.859 Q 20.844 32.516 20.844 25.984 L 20.844 -0.0000 L 7.1250 -0.0000 L 7.1250 71.578 L 20.844 71.578 z"
+           id="glyph4666" />
+        <glyph
+           unicode="g"
+           horiz-adv-x="61.084"
+           d="M 5.9062 -3.4219 L 21.578 -5.3281 Q 21.969 -8.0625 23.391 -9.0781 Q 25.344 -10.547 29.547 -10.547 Q 34.906 -10.547 37.594 -8.9375 Q 39.406 -7.8594 40.328 -5.4688 Q 40.969 -3.7656 40.969 .82812 L 40.969 8.4062 Q 34.812 -0.0000 25.438 -0.0000 Q 14.984 -0.0000 8.8906 8.8438 Q 4.1094 15.828 4.1094 26.219 Q 4.1094 39.266 10.383 46.148 Q 16.656 53.031 25.984 53.031 Q 35.594 53.031 41.844 44.578 L 41.844 51.859 L 54.688 51.859 L 54.688 5.3281 Q 54.688 -3.8594 53.172 -8.3984 Q 51.656 -12.938 48.922 -15.523 Q 46.188 -18.109 41.625 -19.578 Q 37.062 -21.047 30.078 -21.047 Q 16.891 -21.047 11.375 -16.531 Q 5.8594 -12.016 5.8594 -5.0781 Q 5.8594 -4.3906 5.9062 -3.4219 z M 18.172 27.000 Q 18.172 18.750 21.367 14.914 Q 24.562 11.078 29.250 11.078 Q 34.281 11.078 37.750 15.016 Q 41.219 18.953 41.219 26.656 Q 41.219 34.719 37.898 38.625 Q 34.578 42.531 29.500 42.531 Q 24.562 42.531 21.367 38.695 Q 18.172 34.859 18.172 27.000 z"
+           id="glyph4668" />
+        <glyph
+           unicode="f"
+           horiz-adv-x="33.301"
+           d="M 1.1719 51.859 L 8.7969 51.859 L 8.7969 55.766 Q 8.7969 62.312 10.188 65.531 Q 11.578 68.750 15.312 70.773 Q 19.047 72.797 24.750 72.797 Q 30.609 72.797 36.234 71.047 L 34.375 61.469 Q 31.109 62.250 28.078 62.250 Q 25.094 62.250 23.805 60.859 Q 22.516 59.469 22.516 55.516 L 22.516 51.859 L 32.766 51.859 L 32.766 41.062 L 22.516 41.062 L 22.516 -0.0000 L 8.7969 -0.0000 L 8.7969 41.062 L 1.1719 41.062 L 1.1719 51.859 z"
+           id="glyph4670" />
+        <glyph
+           unicode="e"
+           horiz-adv-x="55.615"
+           d="M 37.203 16.500 L 50.875 14.203 Q 48.250 6.6875 42.555 2.7578 Q 36.859 -1.1719 28.328 -1.1719 Q 14.797 -1.1719 8.2969 7.6719 Q 3.1719 14.750 3.1719 25.531 Q 3.1719 38.422 9.9141 45.727 Q 16.656 53.031 26.953 53.031 Q 38.531 53.031 45.219 45.391 Q 51.906 37.750 51.609 21.969 L 17.234 21.969 Q 17.391 15.875 20.562 12.477 Q 23.734 9.0781 28.469 9.0781 Q 31.688 9.0781 33.883 10.836 Q 36.078 12.594 37.203 16.500 z M 37.984 30.375 Q 37.844 36.328 34.914 39.430 Q 31.984 42.531 27.781 42.531 Q 23.297 42.531 20.359 39.266 Q 17.438 35.984 17.484 30.375 L 37.984 30.375 z"
+           id="glyph4672" />
+        <glyph
+           unicode="d"
+           horiz-adv-x="61.084"
+           d="M 54.734 -0.0000 L 42.000 -0.0000 L 42.000 7.6250 Q 38.812 3.1719 34.492 1.0000 Q 30.172 -1.1719 25.781 -1.1719 Q 16.844 -1.1719 10.477 6.0312 Q 4.1094 13.234 4.1094 26.125 Q 4.1094 39.312 10.305 46.172 Q 16.500 53.031 25.984 53.031 Q 34.672 53.031 41.016 45.797 L 41.016 71.578 L 54.734 71.578 L 54.734 -0.0000 z M 18.109 27.047 Q 18.109 18.750 20.406 15.047 Q 23.734 9.6719 29.688 9.6719 Q 34.422 9.6719 37.742 13.695 Q 41.062 17.719 41.062 25.734 Q 41.062 34.672 37.844 38.602 Q 34.625 42.531 29.594 42.531 Q 24.703 42.531 21.406 38.648 Q 18.109 34.766 18.109 27.047 z"
+           id="glyph4674" />
+        <glyph
+           unicode="1"
+           horiz-adv-x="55.615"
+           d="M 39.359 -0.0000 L 25.641 -0.0000 L 25.641 51.703 Q 18.109 44.672 7.9062 41.312 L 7.9062 53.766 Q 13.281 55.516 19.578 60.422 Q 25.875 65.328 28.219 71.875 L 39.359 71.875 L 39.359 -0.0000 z"
+           id="glyph4676" />
+        <glyph
+           unicode="9"
+           horiz-adv-x="55.615"
+           d="M 4.5469 16.547 L 17.828 18.016 Q 18.312 13.969 20.359 12.016 Q 22.406 10.062 25.781 10.062 Q 30.031 10.062 33.008 13.969 Q 35.984 17.875 36.812 30.172 Q 31.641 24.172 23.875 24.172 Q 15.438 24.172 9.3047 30.688 Q 3.1719 37.203 3.1719 47.656 Q 3.1719 58.547 9.6406 65.211 Q 16.109 71.875 26.125 71.875 Q 37.016 71.875 44.000 63.453 Q 50.984 55.031 50.984 35.750 Q 50.984 16.109 43.703 7.4219 Q 36.422 -1.2656 24.750 -1.2656 Q 16.359 -1.2656 11.180 3.2031 Q 6.0000 7.6719 4.5469 16.547 z M 35.594 46.531 Q 35.594 53.172 32.547 56.836 Q 29.500 60.500 25.484 60.500 Q 21.688 60.500 19.172 57.500 Q 16.656 54.500 16.656 47.656 Q 16.656 40.719 19.391 37.477 Q 22.125 34.234 26.219 34.234 Q 30.172 34.234 32.883 37.359 Q 35.594 40.484 35.594 46.531 z"
+           id="glyph4678" />
+        <glyph
+           unicode="8"
+           horiz-adv-x="55.615"
+           d="M 16.016 38.625 Q 10.688 40.875 8.2734 44.805 Q 5.8594 48.734 5.8594 53.422 Q 5.8594 61.422 11.453 66.648 Q 17.047 71.875 27.344 71.875 Q 37.547 71.875 43.188 66.648 Q 48.828 61.422 48.828 53.422 Q 48.828 48.438 46.242 44.555 Q 43.656 40.672 38.969 38.625 Q 44.922 36.234 48.023 31.641 Q 51.125 27.047 51.125 21.047 Q 51.125 11.141 44.805 4.9375 Q 38.484 -1.2656 27.984 -1.2656 Q 18.219 -1.2656 11.719 3.8594 Q 4.0469 9.9062 4.0469 20.453 Q 4.0469 26.266 6.9297 31.125 Q 9.8125 35.984 16.016 38.625 z M 18.844 52.438 Q 18.844 48.344 21.164 46.047 Q 23.484 43.750 27.344 43.750 Q 31.250 43.750 33.594 46.070 Q 35.938 48.391 35.938 52.484 Q 35.938 56.344 33.617 58.664 Q 31.297 60.984 27.484 60.984 Q 23.531 60.984 21.188 58.641 Q 18.844 56.297 18.844 52.438 z M 17.578 21.781 Q 17.578 16.109 20.484 12.938 Q 23.391 9.7656 27.734 9.7656 Q 31.984 9.7656 34.766 12.820 Q 37.547 15.875 37.547 21.625 Q 37.547 26.656 34.719 29.711 Q 31.891 32.766 27.547 32.766 Q 22.516 32.766 20.047 29.297 Q 17.578 25.828 17.578 21.781 z"
+           id="glyph4680" />
+        <glyph
+           unicode="7"
+           horiz-adv-x="55.615"
+           d="M 4.2500 57.859 L 4.2500 70.609 L 51.172 70.609 L 51.172 60.641 Q 45.359 54.938 39.352 44.242 Q 33.344 33.547 30.195 21.508 Q 27.047 9.4688 27.094 -0.0000 L 13.875 -0.0000 Q 14.203 14.844 19.992 30.273 Q 25.781 45.703 35.453 57.859 L 4.2500 57.859 z"
+           id="glyph4682" />
+        <glyph
+           unicode="6"
+           horiz-adv-x="55.615"
+           d="M 50.734 54.047 L 37.453 52.594 Q 36.969 56.688 34.914 58.641 Q 32.859 60.594 29.594 60.594 Q 25.250 60.594 22.242 56.688 Q 19.234 52.781 18.453 40.438 Q 23.578 46.484 31.203 46.484 Q 39.797 46.484 45.922 39.945 Q 52.047 33.406 52.047 23.047 Q 52.047 12.062 45.602 5.4219 Q 39.156 -1.2188 29.047 -1.2188 Q 18.219 -1.2188 11.234 7.2031 Q 4.2500 15.625 4.2500 34.812 Q 4.2500 54.500 11.523 63.188 Q 18.797 71.875 30.422 71.875 Q 38.578 71.875 43.922 67.312 Q 49.266 62.750 50.734 54.047 z M 19.625 24.125 Q 19.625 17.438 22.703 13.797 Q 25.781 10.156 29.734 10.156 Q 33.547 10.156 36.086 13.133 Q 38.625 16.109 38.625 22.906 Q 38.625 29.891 35.891 33.133 Q 33.156 36.375 29.047 36.375 Q 25.094 36.375 22.359 33.273 Q 19.625 30.172 19.625 24.125 z"
+           id="glyph4684" />
+        <glyph
+           unicode="5"
+           horiz-adv-x="55.615"
+           d="M 4.4375 18.406 L 18.109 19.828 Q 18.703 15.188 21.586 12.477 Q 24.469 9.7656 28.219 9.7656 Q 32.516 9.7656 35.500 13.258 Q 38.484 16.750 38.484 23.781 Q 38.484 30.375 35.523 33.672 Q 32.562 36.969 27.828 36.969 Q 21.922 36.969 17.234 31.734 L 6.1094 33.344 L 13.141 70.609 L 49.422 70.609 L 49.422 57.766 L 23.531 57.766 L 21.391 45.609 Q 25.984 47.906 30.766 47.906 Q 39.891 47.906 46.242 41.266 Q 52.594 34.625 52.594 24.031 Q 52.594 15.188 47.469 8.2500 Q 40.484 -1.2188 28.078 -1.2188 Q 18.172 -1.2188 11.922 4.1016 Q 5.6719 9.4219 4.4375 18.406 z"
+           id="glyph4686" />
+        <glyph
+           unicode="4"
+           horiz-adv-x="55.615"
+           d="M 31.156 -0.0000 L 31.156 14.406 L 1.8594 14.406 L 1.8594 26.422 L 32.906 71.875 L 44.438 71.875 L 44.438 26.469 L 53.328 26.469 L 53.328 14.406 L 44.438 14.406 L 44.438 -0.0000 L 31.156 -0.0000 z M 31.156 26.469 L 31.156 50.922 L 14.703 26.469 L 31.156 26.469 z"
+           id="glyph4688" />
+        <glyph
+           unicode="3"
+           horiz-adv-x="55.615"
+           d="M 3.7656 19.000 L 17.047 20.609 Q 17.672 15.531 20.461 12.844 Q 23.250 10.156 27.203 10.156 Q 31.453 10.156 34.352 13.383 Q 37.250 16.609 37.250 22.078 Q 37.250 27.250 34.469 30.273 Q 31.688 33.297 27.688 33.297 Q 25.047 33.297 21.391 32.281 L 22.906 43.453 Q 28.469 43.312 31.398 45.875 Q 34.328 48.438 34.328 52.688 Q 34.328 56.297 32.180 58.445 Q 30.031 60.594 26.469 60.594 Q 22.953 60.594 20.461 58.156 Q 17.969 55.719 17.438 51.031 L 4.7812 53.172 Q 6.1094 59.672 8.7656 63.555 Q 11.422 67.438 16.188 69.656 Q 20.953 71.875 26.859 71.875 Q 36.969 71.875 43.062 65.438 Q 48.094 60.156 48.094 53.516 Q 48.094 44.094 37.797 38.484 Q 43.953 37.156 47.633 32.570 Q 51.312 27.984 51.312 21.484 Q 51.312 12.062 44.430 5.4219 Q 37.547 -1.2188 27.297 -1.2188 Q 17.578 -1.2188 11.180 4.3750 Q 4.7812 9.9688 3.7656 19.000 z"
+           id="glyph4690" />
+      </font>
+    </defs>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4699"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="cm"
+     showgrid="false"
+     inkscape:zoom="0.94404661"
+     inkscape:cx="576.77237"
+     inkscape:cy="284.41392"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4697" />
+  <title
+     id="title2356" />
+  <g
+     id="misc"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0" />
+  <g
+     id="layer0"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0" />
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2373"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bf5934;fill-opacity:1">
+    <clipPath
+       id="clipd56ae896-5e6a-47e1-aa30-9c03d43a825e">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2360" />
+    </clipPath>
+    <g
+       clip-path="url(#clip1)"
+       id="g2371"
+       style="fill:#bf5934;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2369"
+         style="fill:#bf5934;fill-opacity:1">
+        <path
+           d="M 137.27,21.516 V 53.808 L 165.23,69.954 193.2,53.808 V 21.516 L 165.23,5.3703 Z"
+           id="path2363"
+           style="fill:#bf5934;fill-opacity:1" />
+        <title
+           id="title2365">Polygone cell__i1</title>
+        <desc
+           id="desc2367">Polygone cell__i1: Polygone(A, B, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip1 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2388"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bf5934;fill-opacity:1">
+    <clipPath
+       id="clip2281a81c-3d43-4e7b-ac39-58df7d2f67d0">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2375" />
+    </clipPath>
+    <g
+       clip-path="url(#clip2)"
+       id="g2386"
+       style="fill:#bf5934;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2384"
+         style="fill:#bf5934;fill-opacity:1">
+        <path
+           d="m 193.2,21.516 v 32.292 l 27.97,16.146 27.96,-16.146 V 21.516 L 221.17,5.3703 Z"
+           id="path2378"
+           style="fill:#bf5934;fill-opacity:1" />
+        <title
+           id="title2380">Polygone cell__i2</title>
+        <desc
+           id="desc2382">Polygone cell__i2: Polygone(E, D, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip2 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2403"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bf5934;fill-opacity:1">
+    <clipPath
+       id="clip4b48e0ae-0fcd-452a-a55f-8e6fe4b0970d">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2390" />
+    </clipPath>
+    <g
+       clip-path="url(#clip3)"
+       id="g2401"
+       style="fill:#bf5934;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2399"
+         style="fill:#bf5934;fill-opacity:1">
+        <path
+           d="M 249.13,21.516 V 53.808 L 277.1,69.954 305.06,53.808 V 21.516 L 277.1,5.3703 Z"
+           id="path2393"
+           style="fill:#bf5934;fill-opacity:1" />
+        <title
+           id="title2395">Polygone cell__i3</title>
+        <desc
+           id="desc2397">Polygone cell__i3: Polygone(I, H, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip3 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2418"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bf5934;fill-opacity:1">
+    <clipPath
+       id="clipd70489eb-34c7-4328-b7d6-5d3418807943">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2405" />
+    </clipPath>
+    <g
+       clip-path="url(#clip4)"
+       id="g2416"
+       style="fill:#bf5934;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2414"
+         style="fill:#bf5934;fill-opacity:1">
+        <path
+           d="m 305.06,21.516 v 32.292 l 27.97,16.146 27.96,-16.146 V 21.516 L 333.03,5.3703 Z"
+           id="path2408"
+           style="fill:#bf5934;fill-opacity:1" />
+        <title
+           id="title2410">Polygone cell__i4</title>
+        <desc
+           id="desc2412">Polygone cell__i4: Polygone(M, L, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip4 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2433"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bf5934;fill-opacity:1">
+    <clipPath
+       id="clip8eeacfcf-ad19-42e3-aee0-8ca0035bcac3">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2420" />
+    </clipPath>
+    <g
+       clip-path="url(#clip5)"
+       id="g2431"
+       style="fill:#bf5934;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2429"
+         style="fill:#bf5934;fill-opacity:1">
+        <path
+           d="m 360.99,21.516 v 32.292 l 27.97,16.146 27.96,-16.146 V 21.516 L 388.96,5.3703 Z"
+           id="path2423"
+           style="fill:#bf5934;fill-opacity:1" />
+        <title
+           id="title2425">Polygone cell__i5</title>
+        <desc
+           id="desc2427">Polygone cell__i5: Polygone(Q, P, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip5 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2448"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bf5934;fill-opacity:1">
+    <clipPath
+       id="clip84e18d21-17dc-4cc3-989f-e32290730717">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2435" />
+    </clipPath>
+    <g
+       clip-path="url(#clip6)"
+       id="g2446"
+       style="fill:#bf5934;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2444"
+         style="fill:#bf5934;fill-opacity:1">
+        <path
+           d="m 416.92,21.516 v 32.292 l 27.97,16.146 27.97,-16.146 V 21.516 L 444.89,5.3703 Z"
+           id="path2438"
+           style="fill:#bf5934;fill-opacity:1" />
+        <title
+           id="title2440">Polygone cell__i6</title>
+        <desc
+           id="desc2442">Polygone cell__i6: Polygone(U, T, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip6 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2463"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bf5934;fill-opacity:1">
+    <clipPath
+       id="clipf898b308-0cce-4dcb-b463-8646360cf590">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2450" />
+    </clipPath>
+    <g
+       clip-path="url(#clip7)"
+       id="g2461"
+       style="fill:#bf5934;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2459"
+         style="fill:#bf5934;fill-opacity:1">
+        <path
+           d="m 472.86,21.516 v 32.292 l 27.96,16.146 27.97,-16.146 V 21.516 L 500.82,5.3703 Z"
+           id="path2453"
+           style="fill:#bf5934;fill-opacity:1" />
+        <title
+           id="title2455">Polygone cell__i7</title>
+        <desc
+           id="desc2457">Polygone cell__i7: Polygone(A_1, Z, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip7 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2478"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bf5934;fill-opacity:1">
+    <clipPath
+       id="clipf1663287-cd63-4303-9833-30dac133fd2d">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2465" />
+    </clipPath>
+    <g
+       clip-path="url(#clip8)"
+       id="g2476"
+       style="fill:#bf5934;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2474"
+         style="fill:#bf5934;fill-opacity:1">
+        <path
+           d="M 165.23,69.954 137.27,53.808 109.3,69.954 v 32.296 l 27.97,16.14 27.96,-16.14 z"
+           id="path2468"
+           style="fill:#bf5934;fill-opacity:1" />
+        <title
+           id="title2470">Polygone cell__h1</title>
+        <desc
+           id="desc2472">Polygone cell__h1: Polygone(C, B, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip8 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2493"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#f2ca80;fill-opacity:1">
+    <clipPath
+       id="clip062db7e7-b2d9-4cc0-9832-efda5b974021">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2480" />
+    </clipPath>
+    <g
+       clip-path="url(#clip9)"
+       id="g2491"
+       style="fill:#f2ca80;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2489"
+         style="fill:#f2ca80;fill-opacity:1">
+        <path
+           d="m 165.23,69.954 v 32.296 l 27.97,16.14 27.97,-16.14 V 69.954 L 193.2,53.808 Z"
+           id="path2483"
+           style="fill:#f2ca80;fill-opacity:1" />
+        <title
+           id="title2485">Polygone cell__h2</title>
+        <desc
+           id="desc2487">Polygone cell__h2: Polygone(C, J_1, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip9 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2508"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#f2ca80;fill-opacity:1">
+    <clipPath
+       id="clip7584cd16-e317-4ba2-a4b3-019cabc1c91b">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2495" />
+    </clipPath>
+    <g
+       clip-path="url(#clip10)"
+       id="g2506"
+       style="fill:#f2ca80;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2504"
+         style="fill:#f2ca80;fill-opacity:1">
+        <path
+           d="m 221.17,69.954 v 32.296 l 27.96,16.14 27.97,-16.14 V 69.954 L 249.13,53.808 Z"
+           id="path2498"
+           style="fill:#f2ca80;fill-opacity:1" />
+        <title
+           id="title2500">Polygone cell__h3</title>
+        <desc
+           id="desc2502">Polygone cell__h3: Polygone(G, L_1, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip10 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2523"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#f2ca80;fill-opacity:1">
+    <clipPath
+       id="clip8938f068-c4a0-45eb-8eea-0db81ea4a252">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2510" />
+    </clipPath>
+    <g
+       clip-path="url(#clip11)"
+       id="g2521"
+       style="fill:#f2ca80;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2519"
+         style="fill:#f2ca80;fill-opacity:1">
+        <path
+           d="m 277.1,69.954 v 32.296 l 27.96,16.14 27.97,-16.14 V 69.954 L 305.06,53.808 Z"
+           id="path2513"
+           style="fill:#f2ca80;fill-opacity:1" />
+        <title
+           id="title2515">Polygone cell__h4</title>
+        <desc
+           id="desc2517">Polygone cell__h4: Polygone(K, P_1, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip11 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2538"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#f2ca80;fill-opacity:1">
+    <clipPath
+       id="clip769613d9-3c1f-4499-ae63-d4ab94ffaf2a">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2525" />
+    </clipPath>
+    <g
+       clip-path="url(#clip12)"
+       id="g2536"
+       style="fill:#f2ca80;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2534"
+         style="fill:#f2ca80;fill-opacity:1">
+        <path
+           d="m 333.03,69.954 v 32.296 l 27.96,16.14 27.97,-16.14 V 69.954 L 360.99,53.808 Z"
+           id="path2528"
+           style="fill:#f2ca80;fill-opacity:1" />
+        <title
+           id="title2530">Polygone cell__h5</title>
+        <desc
+           id="desc2532">Polygone cell__h5: Polygone(O, T_1, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip12 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2553"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#f2ca80;fill-opacity:1">
+    <clipPath
+       id="clip3aff5615-ca6e-4dff-b727-1b99179686fc">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2540" />
+    </clipPath>
+    <g
+       clip-path="url(#clip13)"
+       id="g2551"
+       style="fill:#f2ca80;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2549"
+         style="fill:#f2ca80;fill-opacity:1">
+        <path
+           d="m 388.96,69.954 v 32.296 l 27.96,16.14 27.97,-16.14 V 69.954 L 416.92,53.808 Z"
+           id="path2543"
+           style="fill:#f2ca80;fill-opacity:1" />
+        <title
+           id="title2545">Polygone cell__h6</title>
+        <desc
+           id="desc2547">Polygone cell__h6: Polygone(S, Z_1, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip13 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2568"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#f2ca80;fill-opacity:1">
+    <clipPath
+       id="clip56da0685-ec4c-4c9a-acd4-a06f591b5993">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2555" />
+    </clipPath>
+    <g
+       clip-path="url(#clip14)"
+       id="g2566"
+       style="fill:#f2ca80;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2564"
+         style="fill:#f2ca80;fill-opacity:1">
+        <path
+           d="m 444.89,69.954 v 32.296 l 27.97,16.14 27.96,-16.14 V 69.954 L 472.86,53.808 Z"
+           id="path2558"
+           style="fill:#f2ca80;fill-opacity:1" />
+        <title
+           id="title2560">Polygone cell__h7</title>
+        <desc
+           id="desc2562">Polygone cell__h7: Polygone(W, D_2, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip14 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2583"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bf5934;fill-opacity:1">
+    <clipPath
+       id="clip6c1d3782-736c-4675-b1d1-6b6ecfb94628">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2570" />
+    </clipPath>
+    <g
+       clip-path="url(#clip15)"
+       id="g2581"
+       style="fill:#bf5934;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2579"
+         style="fill:#bf5934;fill-opacity:1">
+        <path
+           d="m 500.82,69.954 v 32.296 l 27.97,16.14 27.96,-16.14 V 69.954 L 528.79,53.808 Z"
+           id="path2573"
+           style="fill:#bf5934;fill-opacity:1" />
+        <title
+           id="title2575">Polygone cell__h8</title>
+        <desc
+           id="desc2577">Polygone cell__h8: Polygone(C_1, H_2, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip15 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2598"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bf5934;fill-opacity:1">
+    <clipPath
+       id="clipc60080db-6209-4363-ba2b-893754c95272">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2585" />
+    </clipPath>
+    <g
+       clip-path="url(#clip16)"
+       id="g2596"
+       style="fill:#bf5934;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2594"
+         style="fill:#bf5934;fill-opacity:1">
+        <path
+           d="m 193.2,118.39 -27.97,-16.14 -27.96,16.14 v 32.29 l 27.96,16.15 27.97,-16.15 z"
+           id="path2588"
+           style="fill:#bf5934;fill-opacity:1" />
+        <title
+           id="title2590">Polygone cell__g1</title>
+        <desc
+           id="desc2592">Polygone cell__g1: Polygone(K_1, J_1, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip16 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2613"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#f2ca80;fill-opacity:1">
+    <clipPath
+       id="clip9184f122-bf78-468c-a951-5fc9203546a2">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2600" />
+    </clipPath>
+    <g
+       clip-path="url(#clip17)"
+       id="g2611"
+       style="fill:#f2ca80;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2609"
+         style="fill:#f2ca80;fill-opacity:1">
+        <path
+           d="m 193.2,118.39 v 32.29 l 27.97,16.15 27.96,-16.15 v -32.29 l -27.96,-16.14 z"
+           id="path2603"
+           style="fill:#f2ca80;fill-opacity:1" />
+        <title
+           id="title2605">Polygone cell__g2</title>
+        <desc
+           id="desc2607">Polygone cell__g2: Polygone(K_1, R_2, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip17 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2628"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#a66d3c;fill-opacity:1">
+    <clipPath
+       id="clipdab75353-9262-4309-a4aa-494849c2e0ce">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2615" />
+    </clipPath>
+    <g
+       clip-path="url(#clip18)"
+       id="g2626"
+       style="fill:#a66d3c;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2624"
+         style="fill:#a66d3c;fill-opacity:1">
+        <path
+           d="m 249.13,118.39 v 32.29 l 27.97,16.15 27.96,-16.15 V 118.39 L 277.1,102.25 Z"
+           id="path2618"
+           style="fill:#a66d3c;fill-opacity:1" />
+        <title
+           id="title2620">Polygone cell__g3</title>
+        <desc
+           id="desc2622">Polygone cell__g3: Polygone(O_1, T_2, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip18 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2643"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#a66d3c;fill-opacity:1">
+    <clipPath
+       id="clipc435af5e-4aee-4405-85b9-51be051e5e49">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2630" />
+    </clipPath>
+    <g
+       clip-path="url(#clip19)"
+       id="g2641"
+       style="fill:#a66d3c;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2639"
+         style="fill:#a66d3c;fill-opacity:1">
+        <path
+           d="m 305.06,118.39 v 32.29 l 27.97,16.15 27.96,-16.15 v -32.29 l -27.96,-16.14 z"
+           id="path2633"
+           style="fill:#a66d3c;fill-opacity:1" />
+        <title
+           id="title2635">Polygone cell__g4</title>
+        <desc
+           id="desc2637">Polygone cell__g4: Polygone(S_1, Z_2, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip19 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2658"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#a66d3c;fill-opacity:1">
+    <clipPath
+       id="clip65420940-48c4-40f3-ad1c-ab3b43fc4df0">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2645" />
+    </clipPath>
+    <g
+       clip-path="url(#clip20)"
+       id="g2656"
+       style="fill:#a66d3c;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2654"
+         style="fill:#a66d3c;fill-opacity:1">
+        <path
+           d="m 360.99,118.39 v 32.29 l 27.97,16.15 27.96,-16.15 v -32.29 l -27.96,-16.14 z"
+           id="path2648"
+           style="fill:#a66d3c;fill-opacity:1" />
+        <title
+           id="title2650">Polygone cell__g5</title>
+        <desc
+           id="desc2652">Polygone cell__g5: Polygone(W_1, D_3, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip20 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2673"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#f2ca80;fill-opacity:1">
+    <clipPath
+       id="clipcd212e84-9d78-49e4-b890-8679381d0214">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2660" />
+    </clipPath>
+    <g
+       clip-path="url(#clip21)"
+       id="g2671"
+       style="fill:#f2ca80;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2669"
+         style="fill:#f2ca80;fill-opacity:1">
+        <path
+           d="m 416.92,118.39 v 32.29 l 27.97,16.15 27.97,-16.15 v -32.29 l -27.97,-16.14 z"
+           id="path2663"
+           style="fill:#f2ca80;fill-opacity:1" />
+        <title
+           id="title2665">Polygone cell__g6</title>
+        <desc
+           id="desc2667">Polygone cell__g6: Polygone(C_2, H_3, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip21 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2688"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bf5934;fill-opacity:1">
+    <clipPath
+       id="clip82a1dc40-c056-4228-bbcf-feb34d04e0e6">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2675" />
+    </clipPath>
+    <g
+       clip-path="url(#clip22)"
+       id="g2686"
+       style="fill:#bf5934;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2684"
+         style="fill:#bf5934;fill-opacity:1">
+        <path
+           d="m 472.86,118.39 v 32.29 l 27.96,16.15 27.97,-16.15 v -32.29 l -27.97,-16.14 z"
+           id="path2678"
+           style="fill:#bf5934;fill-opacity:1" />
+        <title
+           id="title2680">Polygone cell__g7</title>
+        <desc
+           id="desc2682">Polygone cell__g7: Polygone(G_2, L_3, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip22 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2703"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bf5934;fill-opacity:1">
+    <clipPath
+       id="clipf4900f94-7e84-433c-818b-31f99357c0af">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2690" />
+    </clipPath>
+    <g
+       clip-path="url(#clip23)"
+       id="g2701"
+       style="fill:#bf5934;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2699"
+         style="fill:#bf5934;fill-opacity:1">
+        <path
+           d="m 165.23,166.83 -27.96,-16.15 -27.97,16.15 v 32.29 l 27.97,16.15 27.96,-16.15 z"
+           id="path2693"
+           style="fill:#bf5934;fill-opacity:1" />
+        <title
+           id="title2695">Polygone cell__f1</title>
+        <desc
+           id="desc2697">Polygone cell__f1: Polygone(Q_2, P_2, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip23 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2718"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#f2ca80;fill-opacity:1">
+    <clipPath
+       id="clip67f23f35-c135-4bfb-a4b3-8ccdcf56d95d">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2705" />
+    </clipPath>
+    <g
+       clip-path="url(#clip24)"
+       id="g2716"
+       style="fill:#f2ca80;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2714"
+         style="fill:#f2ca80;fill-opacity:1">
+        <path
+           d="m 165.23,166.83 v 32.29 l 27.97,16.15 27.97,-16.15 V 166.83 L 193.2,150.68 Z"
+           id="path2708"
+           style="fill:#f2ca80;fill-opacity:1" />
+        <title
+           id="title2710">Polygone cell__f2</title>
+        <desc
+           id="desc2712">Polygone cell__f2: Polygone(Q_2, V_3, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip24 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2733"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#a66d3c;fill-opacity:1">
+    <clipPath
+       id="clipa079702d-a2dd-4953-8b71-ee5d060b3a2a">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2720" />
+    </clipPath>
+    <g
+       clip-path="url(#clip25)"
+       id="g2731"
+       style="fill:#a66d3c;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2729"
+         style="fill:#a66d3c;fill-opacity:1">
+        <path
+           d="m 221.17,166.83 v 32.29 l 27.96,16.15 27.97,-16.15 v -32.29 l -27.97,-16.15 z"
+           id="path2723"
+           style="fill:#a66d3c;fill-opacity:1" />
+        <title
+           id="title2725">Polygone cell__f3</title>
+        <desc
+           id="desc2727">Polygone cell__f3: Polygone(S_2, Z_3, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip25 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2748"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#f2ca80;fill-opacity:1">
+    <clipPath
+       id="clip315e9326-dfca-489d-8914-672df051562f">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2735" />
+    </clipPath>
+    <g
+       clip-path="url(#clip26)"
+       id="g2746"
+       style="fill:#f2ca80;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2744"
+         style="fill:#f2ca80;fill-opacity:1">
+        <path
+           d="m 277.1,166.83 v 32.29 l 27.96,16.15 27.97,-16.15 v -32.29 l -27.97,-16.15 z"
+           id="path2738"
+           style="fill:#f2ca80;fill-opacity:1" />
+        <title
+           id="title2740">Polygone cell__f4</title>
+        <desc
+           id="desc2742">Polygone cell__f4: Polygone(W_2, D_4, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip26 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2763"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#f2ca80;fill-opacity:1">
+    <clipPath
+       id="clip57c7c87c-abe2-4945-ad7b-950ef9bccbaa">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2750" />
+    </clipPath>
+    <g
+       clip-path="url(#clip27)"
+       id="g2761"
+       style="fill:#f2ca80;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2759"
+         style="fill:#f2ca80;fill-opacity:1">
+        <path
+           d="m 333.03,166.83 v 32.29 l 27.96,16.15 27.97,-16.15 v -32.29 l -27.97,-16.15 z"
+           id="path2753"
+           style="fill:#f2ca80;fill-opacity:1" />
+        <title
+           id="title2755">Polygone cell__f5</title>
+        <desc
+           id="desc2757">Polygone cell__f5: Polygone(C_3, H_4, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip27 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2778"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#a66d3c;fill-opacity:1">
+    <clipPath
+       id="clipa4235dd4-de70-4609-9227-d568b648c171">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2765" />
+    </clipPath>
+    <g
+       clip-path="url(#clip28)"
+       id="g2776"
+       style="fill:#a66d3c;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2774"
+         style="fill:#a66d3c;fill-opacity:1">
+        <path
+           d="m 388.96,166.83 v 32.29 l 27.96,16.15 27.97,-16.15 v -32.29 l -27.97,-16.15 z"
+           id="path2768"
+           style="fill:#a66d3c;fill-opacity:1" />
+        <title
+           id="title2770">Polygone cell__f6</title>
+        <desc
+           id="desc2772">Polygone cell__f6: Polygone(G_3, L_4, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip28 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2793"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#f2ca80;fill-opacity:1">
+    <clipPath
+       id="clipe05db4f3-ac70-42f5-b1d7-a52cd67af64b">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2780" />
+    </clipPath>
+    <g
+       clip-path="url(#clip29)"
+       id="g2791"
+       style="fill:#f2ca80;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2789"
+         style="fill:#f2ca80;fill-opacity:1">
+        <path
+           d="m 444.89,166.83 v 32.29 l 27.97,16.15 27.96,-16.15 v -32.29 l -27.96,-16.15 z"
+           id="path2783"
+           style="fill:#f2ca80;fill-opacity:1" />
+        <title
+           id="title2785">Polygone cell__f7</title>
+        <desc
+           id="desc2787">Polygone cell__f7: Polygone(K_3, P_4, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip29 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2808"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bf5934;fill-opacity:1">
+    <clipPath
+       id="clipe6d1ec2e-5b01-4633-b485-53cb6521e5e4">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2795" />
+    </clipPath>
+    <g
+       clip-path="url(#clip30)"
+       id="g2806"
+       style="fill:#bf5934;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2804"
+         style="fill:#bf5934;fill-opacity:1">
+        <path
+           d="m 500.82,166.83 v 32.29 l 27.97,16.15 27.96,-16.15 v -32.29 l -27.96,-16.15 z"
+           id="path2798"
+           style="fill:#bf5934;fill-opacity:1" />
+        <title
+           id="title2800">Polygone cell__f8</title>
+        <desc
+           id="desc2802">Polygone cell__f8: Polygone(O_3, T_4, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip30 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2823"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bf5934;fill-opacity:1">
+    <clipPath
+       id="clip5bbf088c-a145-4889-989f-a781c89c632b">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2810" />
+    </clipPath>
+    <g
+       clip-path="url(#clip31)"
+       id="g2821"
+       style="fill:#bf5934;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2819"
+         style="fill:#bf5934;fill-opacity:1">
+        <path
+           d="M 137.27,215.27 109.3,199.12 81.338,215.27 v 32.29 l 27.962,16.15 27.97,-16.15 z"
+           id="path2813"
+           style="fill:#bf5934;fill-opacity:1" />
+        <title
+           id="title2815">Polygone cell__e1</title>
+        <desc
+           id="desc2817">Polygone cell__e1: Polygone(U_3, T_3, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip31 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2838"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#f2ca80;fill-opacity:1">
+    <clipPath
+       id="clip6e42773b-7d5c-45a7-a67d-cf53802828b1">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2825" />
+    </clipPath>
+    <g
+       clip-path="url(#clip32)"
+       id="g2836"
+       style="fill:#f2ca80;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2834"
+         style="fill:#f2ca80;fill-opacity:1">
+        <path
+           d="m 137.27,215.27 v 32.29 l 27.96,16.15 27.97,-16.15 v -32.29 l -27.97,-16.15 z"
+           id="path2828"
+           style="fill:#f2ca80;fill-opacity:1" />
+        <title
+           id="title2830">Polygone cell__e2</title>
+        <desc
+           id="desc2832">Polygone cell__e2: Polygone(U_3, F_5, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip32 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2853"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#a66d3c;fill-opacity:1">
+    <clipPath
+       id="clip2e37317a-6aa9-47cc-9830-d4a9000f3561">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2840" />
+    </clipPath>
+    <g
+       clip-path="url(#clip33)"
+       id="g2851"
+       style="fill:#a66d3c;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2849"
+         style="fill:#a66d3c;fill-opacity:1">
+        <path
+           d="m 193.2,215.27 v 32.29 l 27.97,16.15 27.96,-16.15 v -32.29 l -27.96,-16.15 z"
+           id="path2843"
+           style="fill:#a66d3c;fill-opacity:1" />
+        <title
+           id="title2845">Polygone cell__e3</title>
+        <desc
+           id="desc2847">Polygone cell__e3: Polygone(W_3, H_5, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip33 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2868"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#f2ca80;fill-opacity:1">
+    <clipPath
+       id="clip814ae502-0434-43f1-98fa-013cff4b0c22">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2855" />
+    </clipPath>
+    <g
+       clip-path="url(#clip34)"
+       id="g2866"
+       style="fill:#f2ca80;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2864"
+         style="fill:#f2ca80;fill-opacity:1">
+        <path
+           d="m 249.13,215.27 v 32.29 l 27.97,16.15 27.96,-16.15 V 215.27 L 277.1,199.12 Z"
+           id="path2858"
+           style="fill:#f2ca80;fill-opacity:1" />
+        <title
+           id="title2860">Polygone cell__e4</title>
+        <desc
+           id="desc2862">Polygone cell__e4: Polygone(C_4, L_5, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip34 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2883"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#a66d3c;fill-opacity:1">
+    <clipPath
+       id="clip4736584f-bb34-4392-a4c1-b12e2a19aa4b">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2870" />
+    </clipPath>
+    <g
+       clip-path="url(#clip35)"
+       id="g2881"
+       style="fill:#a66d3c;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2879"
+         style="fill:#a66d3c;fill-opacity:1">
+        <path
+           d="m 305.06,215.27 v 32.29 l 27.97,16.15 27.96,-16.15 v -32.29 l -27.96,-16.15 z"
+           id="path2873"
+           style="fill:#a66d3c;fill-opacity:1" />
+        <title
+           id="title2875">Polygone cell__e5</title>
+        <desc
+           id="desc2877">Polygone cell__e5: Polygone(G_4, P_5, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip35 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2898"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#f2ca80;fill-opacity:1">
+    <clipPath
+       id="clip63c6a843-d99b-40c4-8d2d-bb634493b47d">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2885" />
+    </clipPath>
+    <g
+       clip-path="url(#clip36)"
+       id="g2896"
+       style="fill:#f2ca80;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2894"
+         style="fill:#f2ca80;fill-opacity:1">
+        <path
+           d="m 360.99,215.27 v 32.29 l 27.97,16.15 27.96,-16.15 v -32.29 l -27.96,-16.15 z"
+           id="path2888"
+           style="fill:#f2ca80;fill-opacity:1" />
+        <title
+           id="title2890">Polygone cell__e6</title>
+        <desc
+           id="desc2892">Polygone cell__e6: Polygone(K_4, T_5, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip36 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2913"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#a66d3c;fill-opacity:1">
+    <clipPath
+       id="clip65574b28-b949-4964-8204-c6a0d044d464">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2900" />
+    </clipPath>
+    <g
+       clip-path="url(#clip37)"
+       id="g2911"
+       style="fill:#a66d3c;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2909"
+         style="fill:#a66d3c;fill-opacity:1">
+        <path
+           d="m 416.92,215.27 v 32.29 l 27.97,16.15 27.97,-16.15 v -32.29 l -27.97,-16.15 z"
+           id="path2903"
+           style="fill:#a66d3c;fill-opacity:1" />
+        <title
+           id="title2905">Polygone cell__e7</title>
+        <desc
+           id="desc2907">Polygone cell__e7: Polygone(O_4, Z_5, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip37 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2928"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#f2ca80;fill-opacity:1">
+    <clipPath
+       id="clip196990e0-0992-4056-a187-c146fb9d4468">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2915" />
+    </clipPath>
+    <g
+       clip-path="url(#clip38)"
+       id="g2926"
+       style="fill:#f2ca80;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2924"
+         style="fill:#f2ca80;fill-opacity:1">
+        <path
+           d="m 472.86,215.27 v 32.29 l 27.96,16.15 27.97,-16.15 v -32.29 l -27.97,-16.15 z"
+           id="path2918"
+           style="fill:#f2ca80;fill-opacity:1" />
+        <title
+           id="title2920">Polygone cell__e8</title>
+        <desc
+           id="desc2922">Polygone cell__e8: Polygone(S_4, D_6, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip38 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2943"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bf5934;fill-opacity:1">
+    <clipPath
+       id="clip5f85d4b8-5990-4b9a-9f43-83745cacf81c">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2930" />
+    </clipPath>
+    <g
+       clip-path="url(#clip39)"
+       id="g2941"
+       style="fill:#bf5934;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2939"
+         style="fill:#bf5934;fill-opacity:1">
+        <path
+           d="m 528.79,215.27 v 32.29 l 27.96,16.15 27.97,-16.15 v -32.29 l -27.97,-16.15 z"
+           id="path2933"
+           style="fill:#bf5934;fill-opacity:1" />
+        <title
+           id="title2935">Polygone cell__e9</title>
+        <desc
+           id="desc2937">Polygone cell__e9: Polygone(W_4, H_6, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip39 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2958"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bf5934;fill-opacity:1">
+    <clipPath
+       id="clip9ea129a0-5ffe-4c7e-ae8c-779a1f53624b">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2945" />
+    </clipPath>
+    <g
+       clip-path="url(#clip40)"
+       id="g2956"
+       style="fill:#bf5934;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2954"
+         style="fill:#bf5934;fill-opacity:1">
+        <path
+           d="M 137.27,247.56 109.3,263.71 V 296 l 27.97,16.14 27.96,-16.14 v -32.29 z"
+           id="path2948"
+           style="fill:#bf5934;fill-opacity:1" />
+        <title
+           id="title2950">Polygone cell__d1</title>
+        <desc
+           id="desc2952">Polygone cell__d1: Polygone(F_5, E_5, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip40 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2973"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#f2ca80;fill-opacity:1">
+    <clipPath
+       id="clipf53e0952-95fa-443c-8aec-5a0e0e84d255">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2960" />
+    </clipPath>
+    <g
+       clip-path="url(#clip41)"
+       id="g2971"
+       style="fill:#f2ca80;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2969"
+         style="fill:#f2ca80;fill-opacity:1">
+        <path
+           d="M 165.23,263.71 V 296 L 193.2,312.14 221.17,296 V 263.71 L 193.2,247.56 Z"
+           id="path2963"
+           style="fill:#f2ca80;fill-opacity:1" />
+        <title
+           id="title2965">Polygone cell__d2</title>
+        <desc
+           id="desc2967">Polygone cell__d2: Polygone(G_5, Q_6, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip41 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g2988"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#a66d3c;fill-opacity:1">
+    <clipPath
+       id="clip99d4ff88-fa19-41ea-84fb-191935b9fa08">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2975" />
+    </clipPath>
+    <g
+       clip-path="url(#clip42)"
+       id="g2986"
+       style="fill:#a66d3c;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2984"
+         style="fill:#a66d3c;fill-opacity:1">
+        <path
+           d="M 221.17,263.71 V 296 L 249.13,312.14 277.1,296 v -32.29 l -27.97,-16.15 z"
+           id="path2978"
+           style="fill:#a66d3c;fill-opacity:1" />
+        <title
+           id="title2980">Polygone cell__d3</title>
+        <desc
+           id="desc2982">Polygone cell__d3: Polygone(K_5, T_6, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip42 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3003"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#f2ca80;fill-opacity:1">
+    <clipPath
+       id="clipc831fb71-3b9a-456e-b1e6-7a637c8b5244">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path2990" />
+    </clipPath>
+    <g
+       clip-path="url(#clip43)"
+       id="g3001"
+       style="fill:#f2ca80;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g2999"
+         style="fill:#f2ca80;fill-opacity:1">
+        <path
+           d="M 277.1,263.71 V 296 l 27.96,16.14 27.97,-16.14 v -32.29 l -27.97,-16.15 z"
+           id="path2993"
+           style="fill:#f2ca80;fill-opacity:1" />
+        <title
+           id="title2995">Polygone cell__d4</title>
+        <desc
+           id="desc2997">Polygone cell__d4: Polygone(O_5, Z_6, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip43 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3018"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#f2ca80;fill-opacity:1">
+    <clipPath
+       id="clipdc85e66b-a98c-488a-a3ec-0ff275e9f572">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3005" />
+    </clipPath>
+    <g
+       clip-path="url(#clip44)"
+       id="g3016"
+       style="fill:#f2ca80;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3014"
+         style="fill:#f2ca80;fill-opacity:1">
+        <path
+           d="M 333.03,263.71 V 296 l 27.96,16.14 27.97,-16.14 v -32.29 l -27.97,-16.15 z"
+           id="path3008"
+           style="fill:#f2ca80;fill-opacity:1" />
+        <title
+           id="title3010">Polygone cell__d5</title>
+        <desc
+           id="desc3012">Polygone cell__d5: Polygone(S_5, D_7, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip44 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3033"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#a66d3c;fill-opacity:1">
+    <clipPath
+       id="clip82a27946-375e-4f1a-88fb-3b47aa28bc43">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3020" />
+    </clipPath>
+    <g
+       clip-path="url(#clip45)"
+       id="g3031"
+       style="fill:#a66d3c;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3029"
+         style="fill:#a66d3c;fill-opacity:1">
+        <path
+           d="M 388.96,263.71 V 296 l 27.96,16.14 27.97,-16.14 v -32.29 l -27.97,-16.15 z"
+           id="path3023"
+           style="fill:#a66d3c;fill-opacity:1" />
+        <title
+           id="title3025">Polygone cell__d6</title>
+        <desc
+           id="desc3027">Polygone cell__d6: Polygone(W_5, H_7, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip45 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3048"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#f2ca80;fill-opacity:1">
+    <clipPath
+       id="clipd042f868-cec8-490b-96f8-fc3a51999c6e">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3035" />
+    </clipPath>
+    <g
+       clip-path="url(#clip46)"
+       id="g3046"
+       style="fill:#f2ca80;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3044"
+         style="fill:#f2ca80;fill-opacity:1">
+        <path
+           d="M 444.89,263.71 V 296 l 27.97,16.14 27.96,-16.14 v -32.29 l -27.96,-16.15 z"
+           id="path3038"
+           style="fill:#f2ca80;fill-opacity:1" />
+        <title
+           id="title3040">Polygone cell__d7</title>
+        <desc
+           id="desc3042">Polygone cell__d7: Polygone(C_6, L_7, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip46 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3063"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bf5934;fill-opacity:1">
+    <clipPath
+       id="clipbb3b9817-b057-47b8-86c4-13dd7b261128">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3050" />
+    </clipPath>
+    <g
+       clip-path="url(#clip47)"
+       id="g3061"
+       style="fill:#bf5934;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3059"
+         style="fill:#bf5934;fill-opacity:1">
+        <path
+           d="M 500.82,263.71 V 296 l 27.97,16.14 27.96,-16.14 v -32.29 l -27.96,-16.15 z"
+           id="path3053"
+           style="fill:#bf5934;fill-opacity:1" />
+        <title
+           id="title3055">Polygone cell__d8</title>
+        <desc
+           id="desc3057">Polygone cell__d8: Polygone(G_6, P_7, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip47 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3078"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bf5934;fill-opacity:1">
+    <clipPath
+       id="clipe6d3ef44-fcf3-43ee-9558-b684c05cbdba">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3065" />
+    </clipPath>
+    <g
+       clip-path="url(#clip48)"
+       id="g3076"
+       style="fill:#bf5934;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3074"
+         style="fill:#bf5934;fill-opacity:1">
+        <path
+           d="m 165.23,296 -27.96,16.14 v 32.29 l 27.96,16.15 27.97,-16.15 v -32.29 z"
+           id="path3068"
+           style="fill:#bf5934;fill-opacity:1" />
+        <title
+           id="title3070">Polygone cell__c1</title>
+        <desc
+           id="desc3072">Polygone cell__c1: Polygone(Q_6, P_6, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip48 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3093"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#f2ca80;fill-opacity:1">
+    <clipPath
+       id="clip77527a16-c770-47e4-8c23-c58888935693">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3080" />
+    </clipPath>
+    <g
+       clip-path="url(#clip49)"
+       id="g3091"
+       style="fill:#f2ca80;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3089"
+         style="fill:#f2ca80;fill-opacity:1">
+        <path
+           d="m 193.2,312.14 v 32.29 l 27.97,16.15 27.96,-16.15 V 312.14 L 221.17,296 Z"
+           id="path3083"
+           style="fill:#f2ca80;fill-opacity:1" />
+        <title
+           id="title3085">Polygone cell__c2</title>
+        <desc
+           id="desc3087">Polygone cell__c2: Polygone(S_6, A_8, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip49 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3108"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#a66d3c;fill-opacity:1">
+    <clipPath
+       id="clip535edcc2-3d31-4e7c-aad0-a3caa7bb9a4d">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3095" />
+    </clipPath>
+    <g
+       clip-path="url(#clip50)"
+       id="g3106"
+       style="fill:#a66d3c;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3104"
+         style="fill:#a66d3c;fill-opacity:1">
+        <path
+           d="m 249.13,312.14 v 32.29 l 27.97,16.15 27.96,-16.15 V 312.14 L 277.1,296 Z"
+           id="path3098"
+           style="fill:#a66d3c;fill-opacity:1" />
+        <title
+           id="title3100">Polygone cell__c3</title>
+        <desc
+           id="desc3102">Polygone cell__c3: Polygone(W_6, D_8, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip50 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3123"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#a66d3c;fill-opacity:1">
+    <clipPath
+       id="clip10aa4687-0bd6-43dc-a167-f2068a0f623d">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3110" />
+    </clipPath>
+    <g
+       clip-path="url(#clip51)"
+       id="g3121"
+       style="fill:#a66d3c;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3119"
+         style="fill:#a66d3c;fill-opacity:1">
+        <path
+           d="m 305.06,312.14 v 32.29 l 27.97,16.15 27.96,-16.15 V 312.14 L 333.03,296 Z"
+           id="path3113"
+           style="fill:#a66d3c;fill-opacity:1" />
+        <title
+           id="title3115">Polygone cell__c4</title>
+        <desc
+           id="desc3117">Polygone cell__c4: Polygone(C_7, H_8, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip51 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3138"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#a66d3c;fill-opacity:1">
+    <clipPath
+       id="clip08781547-a50b-4e3f-8d84-5217e9074133">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3125" />
+    </clipPath>
+    <g
+       clip-path="url(#clip52)"
+       id="g3136"
+       style="fill:#a66d3c;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3134"
+         style="fill:#a66d3c;fill-opacity:1">
+        <path
+           d="m 360.99,312.14 v 32.29 l 27.97,16.15 27.96,-16.15 V 312.14 L 388.96,296 Z"
+           id="path3128"
+           style="fill:#a66d3c;fill-opacity:1" />
+        <title
+           id="title3130">Polygone cell__c5</title>
+        <desc
+           id="desc3132">Polygone cell__c5: Polygone(G_7, L_8, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip52 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3153"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#f2ca80;fill-opacity:1">
+    <clipPath
+       id="clipeb121f56-2061-4541-8357-4ad7123df098">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3140" />
+    </clipPath>
+    <g
+       clip-path="url(#clip53)"
+       id="g3151"
+       style="fill:#f2ca80;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3149"
+         style="fill:#f2ca80;fill-opacity:1">
+        <path
+           d="m 416.92,312.14 v 32.29 l 27.97,16.15 27.97,-16.15 V 312.14 L 444.89,296 Z"
+           id="path3143"
+           style="fill:#f2ca80;fill-opacity:1" />
+        <title
+           id="title3145">Polygone cell__c6</title>
+        <desc
+           id="desc3147">Polygone cell__c6: Polygone(K_7, P_8, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip53 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3168"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bf5934;fill-opacity:1">
+    <clipPath
+       id="clip86e524a5-b7d4-40e8-bc74-3d0aed1cca15">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3155" />
+    </clipPath>
+    <g
+       clip-path="url(#clip54)"
+       id="g3166"
+       style="fill:#bf5934;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3164"
+         style="fill:#bf5934;fill-opacity:1">
+        <path
+           d="m 472.86,312.14 v 32.29 l 27.96,16.15 27.97,-16.15 V 312.14 L 500.82,296 Z"
+           id="path3158"
+           style="fill:#bf5934;fill-opacity:1" />
+        <title
+           id="title3160">Polygone cell__c7</title>
+        <desc
+           id="desc3162">Polygone cell__c7: Polygone(O_7, T_8, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip54 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3183"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bf5934;fill-opacity:1">
+    <clipPath
+       id="clipba2408fa-5753-46c2-8176-d852bf65fe13">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3170" />
+    </clipPath>
+    <g
+       clip-path="url(#clip55)"
+       id="g3181"
+       style="fill:#bf5934;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3179"
+         style="fill:#bf5934;fill-opacity:1">
+        <path
+           d="m 165.23,360.58 -27.96,-16.15 -27.97,16.15 v 32.29 l 27.97,16.15 27.96,-16.15 z"
+           id="path3173"
+           style="fill:#bf5934;fill-opacity:1" />
+        <title
+           id="title3175">Polygone cell__b1</title>
+        <desc
+           id="desc3177">Polygone cell__b1: Polygone(Z_7, W_7, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip55 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3198"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#f2ca80;fill-opacity:1">
+    <clipPath
+       id="clipf8617967-fcef-43e0-8fdf-4510ba7f7a9c">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3185" />
+    </clipPath>
+    <g
+       clip-path="url(#clip56)"
+       id="g3196"
+       style="fill:#f2ca80;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3194"
+         style="fill:#f2ca80;fill-opacity:1">
+        <path
+           d="m 165.23,360.58 v 32.29 l 27.97,16.15 27.97,-16.15 V 360.58 L 193.2,344.43 Z"
+           id="path3188"
+           style="fill:#f2ca80;fill-opacity:1" />
+        <title
+           id="title3190">Polygone cell__b2</title>
+        <desc
+           id="desc3192">Polygone cell__b2: Polygone(Z_7, F_9, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip56 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3213"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#f2ca80;fill-opacity:1">
+    <clipPath
+       id="clip4020f9eb-3d58-4fb9-8127-3a6f80e9f673">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3200" />
+    </clipPath>
+    <g
+       clip-path="url(#clip57)"
+       id="g3211"
+       style="fill:#f2ca80;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3209"
+         style="fill:#f2ca80;fill-opacity:1">
+        <path
+           d="m 221.17,360.58 v 32.29 l 27.96,16.15 27.97,-16.15 v -32.29 l -27.97,-16.15 z"
+           id="path3203"
+           style="fill:#f2ca80;fill-opacity:1" />
+        <title
+           id="title3205">Polygone cell__b3</title>
+        <desc
+           id="desc3207">Polygone cell__b3: Polygone(C_8, H_9, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip57 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3228"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#f2ca80;fill-opacity:1">
+    <clipPath
+       id="clip1dbc94af-3f41-4855-b2d1-2efb803e89ae">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3215" />
+    </clipPath>
+    <g
+       clip-path="url(#clip58)"
+       id="g3226"
+       style="fill:#f2ca80;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3224"
+         style="fill:#f2ca80;fill-opacity:1">
+        <path
+           d="m 277.1,360.58 v 32.29 l 27.96,16.15 27.97,-16.15 v -32.29 l -27.97,-16.15 z"
+           id="path3218"
+           style="fill:#f2ca80;fill-opacity:1" />
+        <title
+           id="title3220">Polygone cell__b4</title>
+        <desc
+           id="desc3222">Polygone cell__b4: Polygone(G_8, L_9, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip58 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3243"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#f2ca80;fill-opacity:1">
+    <clipPath
+       id="clip1fc7fa5e-0c65-42c1-94b0-f45f34e742bd">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3230" />
+    </clipPath>
+    <g
+       clip-path="url(#clip59)"
+       id="g3241"
+       style="fill:#f2ca80;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3239"
+         style="fill:#f2ca80;fill-opacity:1">
+        <path
+           d="m 333.03,360.58 v 32.29 l 27.96,16.15 27.97,-16.15 v -32.29 l -27.97,-16.15 z"
+           id="path3233"
+           style="fill:#f2ca80;fill-opacity:1" />
+        <title
+           id="title3235">Polygone cell__b5</title>
+        <desc
+           id="desc3237">Polygone cell__b5: Polygone(K_8, P_9, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip59 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3258"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#f2ca80;fill-opacity:1">
+    <clipPath
+       id="clipcac2eddf-7f8e-4105-958e-db6f12c8e2ae">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3245" />
+    </clipPath>
+    <g
+       clip-path="url(#clip60)"
+       id="g3256"
+       style="fill:#f2ca80;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3254"
+         style="fill:#f2ca80;fill-opacity:1">
+        <path
+           d="m 388.96,360.58 v 32.29 l 27.96,16.15 27.97,-16.15 v -32.29 l -27.97,-16.15 z"
+           id="path3248"
+           style="fill:#f2ca80;fill-opacity:1" />
+        <title
+           id="title3250">Polygone cell__b6</title>
+        <desc
+           id="desc3252">Polygone cell__b6: Polygone(O_8, T_9, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip60 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3273"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#f2ca80;fill-opacity:1">
+    <clipPath
+       id="clipf9e56234-9ce2-48a2-af91-61a82e68feef">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3260" />
+    </clipPath>
+    <g
+       clip-path="url(#clip61)"
+       id="g3271"
+       style="fill:#f2ca80;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3269"
+         style="fill:#f2ca80;fill-opacity:1">
+        <path
+           d="m 444.89,360.58 v 32.29 l 27.97,16.15 27.96,-16.15 v -32.29 l -27.96,-16.15 z"
+           id="path3263"
+           style="fill:#f2ca80;fill-opacity:1" />
+        <title
+           id="title3265">Polygone cell__b7</title>
+        <desc
+           id="desc3267">Polygone cell__b7: Polygone(S_8, Z_9, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip61 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3288"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bf5934;fill-opacity:1">
+    <clipPath
+       id="clip501e16c6-e26d-42d9-bb21-8e1238bd1ec3">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3275" />
+    </clipPath>
+    <g
+       clip-path="url(#clip62)"
+       id="g3286"
+       style="fill:#bf5934;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3284"
+         style="fill:#bf5934;fill-opacity:1">
+        <path
+           d="m 500.82,360.58 v 32.29 l 27.97,16.15 27.96,-16.15 v -32.29 l -27.96,-16.15 z"
+           id="path3278"
+           style="fill:#bf5934;fill-opacity:1" />
+        <title
+           id="title3280">Polygone cell__b8</title>
+        <desc
+           id="desc3282">Polygone cell__b8: Polygone(W_8, D_{10}, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip62 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3303"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bf5934;fill-opacity:1">
+    <clipPath
+       id="clipb65fbcfd-4b77-40c8-908b-56cc82f92df2">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3290" />
+    </clipPath>
+    <g
+       clip-path="url(#clip63)"
+       id="g3301"
+       style="fill:#bf5934;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3299"
+         style="fill:#bf5934;fill-opacity:1">
+        <path
+           d="m 165.23,392.87 -27.96,16.15 v 32.29 l 27.96,16.15 27.97,-16.15 v -32.29 z"
+           id="path3293"
+           style="fill:#bf5934;fill-opacity:1" />
+        <title
+           id="title3295">Polygone cell__a1</title>
+        <desc
+           id="desc3297">Polygone cell__a1: Polygone(F_9, E_9, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip63 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3318"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bf5934;fill-opacity:1">
+    <clipPath
+       id="clipaeaa94ca-1fc1-4856-8ed2-1145b0486d55">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3305" />
+    </clipPath>
+    <g
+       clip-path="url(#clip64)"
+       id="g3316"
+       style="fill:#bf5934;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3314"
+         style="fill:#bf5934;fill-opacity:1">
+        <path
+           d="m 193.2,409.02 v 32.29 l 27.97,16.15 27.96,-16.15 v -32.29 l -27.96,-16.15 z"
+           id="path3308"
+           style="fill:#bf5934;fill-opacity:1" />
+        <title
+           id="title3310">Polygone cell__a2</title>
+        <desc
+           id="desc3312">Polygone cell__a2: Polygone(G_9, M_{10}, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip64 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3333"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bf5934;fill-opacity:1">
+    <clipPath
+       id="clip1118d2f4-9415-4aaa-a2a6-a07ac6e40446">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3320" />
+    </clipPath>
+    <g
+       clip-path="url(#clip65)"
+       id="g3331"
+       style="fill:#bf5934;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3329"
+         style="fill:#bf5934;fill-opacity:1">
+        <path
+           d="m 249.13,409.02 v 32.29 l 27.97,16.15 27.96,-16.15 V 409.02 L 277.1,392.87 Z"
+           id="path3323"
+           style="fill:#bf5934;fill-opacity:1" />
+        <title
+           id="title3325">Polygone cell__a3</title>
+        <desc
+           id="desc3327">Polygone cell__a3: Polygone(K_9, P_{10}, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip65 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3348"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bf5934;fill-opacity:1">
+    <clipPath
+       id="clip76e269de-3d7e-436f-88e4-1438b16871f4">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3335" />
+    </clipPath>
+    <g
+       clip-path="url(#clip66)"
+       id="g3346"
+       style="fill:#bf5934;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3344"
+         style="fill:#bf5934;fill-opacity:1">
+        <path
+           d="m 305.06,409.02 v 32.29 l 27.97,16.15 27.96,-16.15 v -32.29 l -27.96,-16.15 z"
+           id="path3338"
+           style="fill:#bf5934;fill-opacity:1" />
+        <title
+           id="title3340">Polygone cell__a4</title>
+        <desc
+           id="desc3342">Polygone cell__a4: Polygone(O_9, T_{10}, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip66 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3363"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bf5934;fill-opacity:1">
+    <clipPath
+       id="clipf1435017-bda9-4d15-9435-431ad1eae501">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3350" />
+    </clipPath>
+    <g
+       clip-path="url(#clip67)"
+       id="g3361"
+       style="fill:#bf5934;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3359"
+         style="fill:#bf5934;fill-opacity:1">
+        <path
+           d="m 360.99,409.02 v 32.29 l 27.97,16.15 27.96,-16.15 v -32.29 l -27.96,-16.15 z"
+           id="path3353"
+           style="fill:#bf5934;fill-opacity:1" />
+        <title
+           id="title3355">Polygone cell__a5</title>
+        <desc
+           id="desc3357">Polygone cell__a5: Polygone(S_9, Z_{10}, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip67 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3378"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bf5934;fill-opacity:1">
+    <clipPath
+       id="clipc159a921-b5a3-4d4d-bb63-ce2844cf769a">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3365" />
+    </clipPath>
+    <g
+       clip-path="url(#clip68)"
+       id="g3376"
+       style="fill:#bf5934;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3374"
+         style="fill:#bf5934;fill-opacity:1">
+        <path
+           d="m 416.92,409.02 v 32.29 l 27.97,16.15 27.97,-16.15 v -32.29 l -27.97,-16.15 z"
+           id="path3368"
+           style="fill:#bf5934;fill-opacity:1" />
+        <title
+           id="title3370">Polygone cell__a6</title>
+        <desc
+           id="desc3372">Polygone cell__a6: Polygone(W_9, D_{11}, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip68 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3393"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bf5934;fill-opacity:1">
+    <clipPath
+       id="clip17d87771-d9f8-4e48-808a-7e653c48e818">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3380" />
+    </clipPath>
+    <g
+       clip-path="url(#clip69)"
+       id="g3391"
+       style="fill:#bf5934;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3389"
+         style="fill:#bf5934;fill-opacity:1">
+        <path
+           d="m 472.86,409.02 v 32.29 l 27.96,16.15 27.97,-16.15 v -32.29 l -27.97,-16.15 z"
+           id="path3383"
+           style="fill:#bf5934;fill-opacity:1" />
+        <title
+           id="title3385">Polygone cell__a7</title>
+        <desc
+           id="desc3387">Polygone cell__a7: Polygone(C_{10}, H_{11}, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip69 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3408"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bfb8b4;fill-opacity:1">
+    <clipPath
+       id="clip84528647-375d-492e-8581-5c2fe35514fa">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3395" />
+    </clipPath>
+    <g
+       clip-path="url(#clip70)"
+       id="g3406"
+       style="fill:#bfb8b4;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3404"
+         style="fill:#bfb8b4;fill-opacity:1">
+        <path
+           d="m 584.72,360.58 v 32.29 l 27.96,16.15 27.97,-16.15 v -32.29 l -27.97,-16.15 z"
+           id="path3398"
+           style="fill:#bfb8b4;fill-opacity:1" />
+        <title
+           id="title3400">Polygone cell__b9</title>
+        <desc
+           id="desc3402">Polygone cell__b9: Polygone(O_{11}, P_{11}, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip70 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3423"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bfb8b4;fill-opacity:1">
+    <clipPath
+       id="clip129c816a-98d1-438f-9013-d3e539c289d7">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3410" />
+    </clipPath>
+    <g
+       clip-path="url(#clip71)"
+       id="g3421"
+       style="fill:#bfb8b4;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3419"
+         style="fill:#bfb8b4;fill-opacity:1">
+        <path
+           d="m 612.68,409.02 -27.96,-16.15 -27.97,16.15 v 32.29 l 27.97,16.15 27.96,-16.15 z"
+           id="path3413"
+           style="fill:#bfb8b4;fill-opacity:1" />
+        <title
+           id="title3415">Polygone cell__a8</title>
+        <desc
+           id="desc3417">Polygone cell__a8: Polygone(Q_{11}, P_{11}, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip71 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3438"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bfb8b4;fill-opacity:1">
+    <clipPath
+       id="clipa42add20-2959-4423-8169-b6279c8d39fc">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3425" />
+    </clipPath>
+    <g
+       clip-path="url(#clip72)"
+       id="g3436"
+       style="fill:#bfb8b4;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3434"
+         style="fill:#bfb8b4;fill-opacity:1">
+        <path
+           d="m 584.72,360.58 27.96,-16.15 V 312.14 L 584.72,296 556.75,312.14 v 32.29 z"
+           id="path3428"
+           style="fill:#bfb8b4;fill-opacity:1" />
+        <title
+           id="title3430">Polygone cell__c8</title>
+        <desc
+           id="desc3432">Polygone cell__c8: Polygone(O_{11}, T_{11}, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip72 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3453"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bfb8b4;fill-opacity:1">
+    <clipPath
+       id="clip292262f2-06dd-486c-adbb-96632a358e5b">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3440" />
+    </clipPath>
+    <g
+       clip-path="url(#clip73)"
+       id="g3451"
+       style="fill:#bfb8b4;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3449"
+         style="fill:#bfb8b4;fill-opacity:1">
+        <path
+           d="m 584.72,296 27.96,16.14 27.97,-16.14 v -32.29 l -27.97,-16.15 -27.96,16.15 z"
+           id="path3443"
+           style="fill:#bfb8b4;fill-opacity:1" />
+        <title
+           id="title3445">Polygone cell__d9</title>
+        <desc
+           id="desc3447">Polygone cell__d9: Polygone(B_{12}, A_{12}, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip73 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3468"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bfb8b4;fill-opacity:1">
+    <clipPath
+       id="clip2595848e-8ee9-439a-9d01-db1fc9384fd9">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3455" />
+    </clipPath>
+    <g
+       clip-path="url(#clip74)"
+       id="g3466"
+       style="fill:#bfb8b4;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3464"
+         style="fill:#bfb8b4;fill-opacity:1">
+        <path
+           d="M 81.338,102.25 V 69.954 L 53.372,53.808 25.407,69.954 v 32.296 l 27.965,16.14 z"
+           id="path3458"
+           style="fill:#bfb8b4;fill-opacity:1" />
+        <title
+           id="title3460">Polygone cell__h0</title>
+        <desc
+           id="desc3462">Polygone cell__h0: Polygone(J_{12}, I_{12}, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip74 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3483"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bfb8b4;fill-opacity:1">
+    <clipPath
+       id="clipee17c806-e174-404b-bf5c-64ae8301fd1d">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3470" />
+    </clipPath>
+    <g
+       clip-path="url(#clip75)"
+       id="g3481"
+       style="fill:#bfb8b4;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3479"
+         style="fill:#bfb8b4;fill-opacity:1">
+        <path
+           d="M 53.372,53.808 81.338,69.954 109.3,53.808 V 21.516 L 81.338,5.3703 53.372,21.516 Z"
+           id="path3473"
+           style="fill:#bfb8b4;fill-opacity:1" />
+        <title
+           id="title3475">Polygone cell__i0</title>
+        <desc
+           id="desc3477">Polygone cell__i0: Polygone(K_{12}, I_{12}, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip75 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3498"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bfb8b4;fill-opacity:1">
+    <clipPath
+       id="clip4e40712e-f605-41fd-9d6c-091b7d290457">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3485" />
+    </clipPath>
+    <g
+       clip-path="url(#clip76)"
+       id="g3496"
+       style="fill:#bfb8b4;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3494"
+         style="fill:#bfb8b4;fill-opacity:1">
+        <path
+           d="m 81.338,102.25 -27.966,16.14 v 32.29 l 27.966,16.15 27.962,-16.15 v -32.29 z"
+           id="path3488"
+           style="fill:#bfb8b4;fill-opacity:1" />
+        <title
+           id="title3490">Polygone cell__g0</title>
+        <desc
+           id="desc3492">Polygone cell__g0: Polygone(J_{12}, N_{12}, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip76 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3513"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill:#bfb8b4;fill-opacity:1">
+    <clipPath
+       id="clip4c36016d-db0b-4a77-8965-28ec23aa6451">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3500" />
+    </clipPath>
+    <g
+       clip-path="url(#clip77)"
+       id="g3511"
+       style="fill:#bfb8b4;fill-opacity:1">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g3509"
+         style="fill:#bfb8b4;fill-opacity:1">
+        <path
+           d="M 81.338,166.83 53.372,150.68 25.407,166.83 v 32.29 l 27.965,16.15 27.966,-16.15 z"
+           id="path3503"
+           style="fill:#bfb8b4;fill-opacity:1" />
+        <title
+           id="title3505">Polygone cell__f0</title>
+        <desc
+           id="desc3507">Polygone cell__f0: Polygone(T_{12}, S_{12}, 6)</desc>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip77 -->
+  </g>
+  <g
+     id="layer2"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0" />
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3901"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip6dbe29f5-2dbb-4f47-bd06-af53fe55e3dd">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3892" />
+    </clipPath>
+    <g
+       clip-path="url(#clip103)"
+       id="g3899"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(140,440)"
+         id="g3897"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text3895"
+           style="fill:#000000;fill-opacity:1">a1</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip103 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3912"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip556841d3-1a35-41e6-8a1b-1e3c939504a6">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3903" />
+    </clipPath>
+    <g
+       clip-path="url(#clip104)"
+       id="g3910"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(196,440)"
+         id="g3908"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text3906"
+           style="fill:#000000;fill-opacity:1">a2</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip104 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3923"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip0b73aaa0-8c9e-4053-b7c5-1e27d1ae77fc">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3914" />
+    </clipPath>
+    <g
+       clip-path="url(#clip105)"
+       id="g3921"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(252,440)"
+         id="g3919"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text3917"
+           style="fill:#000000;fill-opacity:1">a3</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip105 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3934"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip86a52ad5-7447-4a68-ab78-d07b167c2a1e">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3925" />
+    </clipPath>
+    <g
+       clip-path="url(#clip106)"
+       id="g3932"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(308,440)"
+         id="g3930"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text3928"
+           style="fill:#000000;fill-opacity:1">a4</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip106 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3945"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip9c95a995-8bdd-4de1-9028-0acfe06bfcdb">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3936" />
+    </clipPath>
+    <g
+       clip-path="url(#clip107)"
+       id="g3943"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(364,440)"
+         id="g3941"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text3939"
+           style="fill:#000000;fill-opacity:1">a5</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip107 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3956"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip66815d17-868e-4634-946d-e6e7811abb56">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3947" />
+    </clipPath>
+    <g
+       clip-path="url(#clip108)"
+       id="g3954"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(419,440)"
+         id="g3952"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text3950"
+           style="fill:#000000;fill-opacity:1">a6</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip108 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3967"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip0f57ce5a-a90b-4052-bd68-665b4cef01b4">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3958" />
+    </clipPath>
+    <g
+       clip-path="url(#clip109)"
+       id="g3965"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(475,440)"
+         id="g3963"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text3961"
+           style="fill:#000000;fill-opacity:1">a7</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip109 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3978"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip16e0c323-e280-4b81-8b70-19820472463b">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3969" />
+    </clipPath>
+    <g
+       clip-path="url(#clip110)"
+       id="g3976"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(112,391)"
+         id="g3974"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text3972"
+           style="fill:#000000;fill-opacity:1">b1</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip110 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g3989"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clipb6bea865-69de-4a33-bdcb-b08da1f01e0f">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3980" />
+    </clipPath>
+    <g
+       clip-path="url(#clip111)"
+       id="g3987"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(168,391)"
+         id="g3985"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text3983"
+           style="fill:#000000;fill-opacity:1">b2</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip111 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4000"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip16cb978e-152a-4117-acde-6db03cba2cd7">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path3991" />
+    </clipPath>
+    <g
+       clip-path="url(#clip112)"
+       id="g3998"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(224,391)"
+         id="g3996"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text3994"
+           style="fill:#000000;fill-opacity:1">b3</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip112 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4011"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip51abc89d-8f8a-4ae2-b85d-7d615fcdb4ee">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4002" />
+    </clipPath>
+    <g
+       clip-path="url(#clip113)"
+       id="g4009"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(280,391)"
+         id="g4007"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4005"
+           style="fill:#000000;fill-opacity:1">b4</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip113 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4022"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clipf14252e0-02be-43df-9e74-b75554c5a6ec">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4013" />
+    </clipPath>
+    <g
+       clip-path="url(#clip114)"
+       id="g4020"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(336,391)"
+         id="g4018"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4016"
+           style="fill:#000000;fill-opacity:1">b5</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip114 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4033"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip9d5d96bf-dd3b-49ff-832f-57a755b0010c">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4024" />
+    </clipPath>
+    <g
+       clip-path="url(#clip115)"
+       id="g4031"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(391,391)"
+         id="g4029"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4027"
+           style="fill:#000000;fill-opacity:1">b6</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip115 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4044"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clipf4491196-ade7-4d2b-a4f5-52f605ac642e">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4035" />
+    </clipPath>
+    <g
+       clip-path="url(#clip116)"
+       id="g4042"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(447,391)"
+         id="g4040"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4038"
+           style="fill:#000000;fill-opacity:1">b7</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip116 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4055"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clipc7141230-3595-4f99-97b4-4679c27e1e3b">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4046" />
+    </clipPath>
+    <g
+       clip-path="url(#clip117)"
+       id="g4053"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(503,391)"
+         id="g4051"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4049"
+           style="fill:#000000;fill-opacity:1">b8</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip117 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4066"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clipf1fb1a93-e972-4fe2-afa2-5e9898b033f3">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4057" />
+    </clipPath>
+    <g
+       clip-path="url(#clip118)"
+       id="g4064"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(140,343)"
+         id="g4062"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4060"
+           style="fill:#000000;fill-opacity:1">c1</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip118 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4077"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clipbdd946c5-0019-45ba-86bb-75b66a0781ca">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4068" />
+    </clipPath>
+    <g
+       clip-path="url(#clip119)"
+       id="g4075"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(196,343)"
+         id="g4073"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4071"
+           style="fill:#000000;fill-opacity:1">c2</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip119 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4088"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip3c139b1f-2746-4abf-aa0e-882fb56892ba">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4079" />
+    </clipPath>
+    <g
+       clip-path="url(#clip120)"
+       id="g4086"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(252,343)"
+         id="g4084"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4082"
+           style="fill:#000000;fill-opacity:1">c3</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip120 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4099"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clipfebd28a0-0cce-4a4a-b348-bd486d20f9c2">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4090" />
+    </clipPath>
+    <g
+       clip-path="url(#clip121)"
+       id="g4097"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(308,343)"
+         id="g4095"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4093"
+           style="fill:#000000;fill-opacity:1">c4</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip121 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4110"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip01deeb4e-b06a-4bf6-91d2-f4f006943fe4">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4101" />
+    </clipPath>
+    <g
+       clip-path="url(#clip122)"
+       id="g4108"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(364,343)"
+         id="g4106"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4104"
+           style="fill:#000000;fill-opacity:1">c5</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip122 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4121"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip462dbe66-688c-41b2-b831-ba72ef853749">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4112" />
+    </clipPath>
+    <g
+       clip-path="url(#clip123)"
+       id="g4119"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(419,343)"
+         id="g4117"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4115"
+           style="fill:#000000;fill-opacity:1">c6</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip123 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4132"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clipb2223af4-40f9-4278-be3b-c54bea343fe7">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4123" />
+    </clipPath>
+    <g
+       clip-path="url(#clip124)"
+       id="g4130"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(475,343)"
+         id="g4128"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4126"
+           style="fill:#000000;fill-opacity:1">c7</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip124 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4143"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip8bab1a1e-7336-4a5b-9d42-583fe505575e">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4134" />
+    </clipPath>
+    <g
+       clip-path="url(#clip125)"
+       id="g4141"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(112,294)"
+         id="g4139"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4137"
+           style="fill:#000000;fill-opacity:1">d1</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip125 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4154"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip9cecb628-000b-4191-969d-62bebece4113">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4145" />
+    </clipPath>
+    <g
+       clip-path="url(#clip126)"
+       id="g4152"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(168,294)"
+         id="g4150"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4148"
+           style="fill:#000000;fill-opacity:1">d2</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip126 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4165"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip5866a9bf-2d95-4b82-ae08-9d643b764260">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4156" />
+    </clipPath>
+    <g
+       clip-path="url(#clip127)"
+       id="g4163"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(224,294)"
+         id="g4161"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4159"
+           style="fill:#000000;fill-opacity:1">d3</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip127 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4176"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip1fc2e3d7-5829-424a-b858-626186b8f2fb">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4167" />
+    </clipPath>
+    <g
+       clip-path="url(#clip128)"
+       id="g4174"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(280,294)"
+         id="g4172"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4170"
+           style="fill:#000000;fill-opacity:1">d4</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip128 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4187"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip81198d84-08de-4822-9513-b26ca24d0261">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4178" />
+    </clipPath>
+    <g
+       clip-path="url(#clip129)"
+       id="g4185"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(336,294)"
+         id="g4183"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4181"
+           style="fill:#000000;fill-opacity:1">d5</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip129 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4198"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip3cbe54ec-cc74-45fa-b1b5-6ee3d12eb61b">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4189" />
+    </clipPath>
+    <g
+       clip-path="url(#clip130)"
+       id="g4196"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(391,294)"
+         id="g4194"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4192"
+           style="fill:#000000;fill-opacity:1">d6</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip130 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4209"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip6c02ab6f-3eaf-4dae-b620-04c025d27001">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4200" />
+    </clipPath>
+    <g
+       clip-path="url(#clip131)"
+       id="g4207"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(447,294)"
+         id="g4205"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4203"
+           style="fill:#000000;fill-opacity:1">d7</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip131 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4220"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip13fa7f07-e156-48b5-8d2a-4ace1d2b749a">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4211" />
+    </clipPath>
+    <g
+       clip-path="url(#clip132)"
+       id="g4218"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(503,294)"
+         id="g4216"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4214"
+           style="fill:#000000;fill-opacity:1">d8</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip132 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4231"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip7d11b082-57e5-4338-a1e3-5404e7897bda">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4222" />
+    </clipPath>
+    <g
+       clip-path="url(#clip133)"
+       id="g4229"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(84,246)"
+         id="g4227"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4225"
+           style="fill:#000000;fill-opacity:1">e1</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip133 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4242"
+     style="fill:#f2ca80;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip7c7c478d-5f28-4f64-8fc1-ab727a8d59dc">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4233" />
+    </clipPath>
+    <g
+       clip-path="url(#clip134)"
+       id="g4240"
+       style="fill:#f2ca80;fill-opacity:1">
+      <g
+         transform="translate(140,246)"
+         id="g4238"
+         style="fill:#f2ca80;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4236"
+           style="fill:#f2ca80;fill-opacity:1">e2</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip134 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4253"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip6b61b9bc-b00f-485a-bd1d-819c4d7f6fd0">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4244" />
+    </clipPath>
+    <g
+       clip-path="url(#clip135)"
+       id="g4251"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(196,246)"
+         id="g4249"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4247"
+           style="fill:#000000;fill-opacity:1">e3</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip135 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4264"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip9d5fca82-14ad-46d9-a54d-f78f6825eb96">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4255" />
+    </clipPath>
+    <g
+       clip-path="url(#clip136)"
+       id="g4262"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(252,246)"
+         id="g4260"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4258"
+           style="fill:#000000;fill-opacity:1">e4</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip136 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4275"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clipc8f7fd0d-9f51-4719-8995-6c59d4fa0177">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4266" />
+    </clipPath>
+    <g
+       clip-path="url(#clip137)"
+       id="g4273"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(308,246)"
+         id="g4271"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4269"
+           style="fill:#000000;fill-opacity:1">e5</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip137 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4286"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip8364893c-1b97-4c58-91a0-130bea7cc2fd">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4277" />
+    </clipPath>
+    <g
+       clip-path="url(#clip138)"
+       id="g4284"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(364,246)"
+         id="g4282"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4280"
+           style="fill:#000000;fill-opacity:1">e6</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip138 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4297"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip85012570-af62-4180-9b6b-557d8f635698">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4288" />
+    </clipPath>
+    <g
+       clip-path="url(#clip139)"
+       id="g4295"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(419,246)"
+         id="g4293"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4291"
+           style="fill:#000000;fill-opacity:1">e7</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip139 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4308"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clipa3c1a6e2-e42d-4e48-8292-abe0b866d17e">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4299" />
+    </clipPath>
+    <g
+       clip-path="url(#clip140)"
+       id="g4306"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(475,246)"
+         id="g4304"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4302"
+           style="fill:#000000;fill-opacity:1">e8</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip140 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4319"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clipd991dd31-4f58-4a63-97fc-6518e7c3b06f">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4310" />
+    </clipPath>
+    <g
+       clip-path="url(#clip141)"
+       id="g4317"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(531,246)"
+         id="g4315"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4313"
+           style="fill:#000000;fill-opacity:1">e9</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip141 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4330"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip30087e04-5740-4e83-bd91-869a1f9c9385">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4321" />
+    </clipPath>
+    <g
+       clip-path="url(#clip142)"
+       id="g4328"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(112,198)"
+         id="g4326"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4324"
+           style="fill:#000000;fill-opacity:1">f1</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip142 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4341"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip47cb349a-beca-4525-a9c3-55591c57003e">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4332" />
+    </clipPath>
+    <g
+       clip-path="url(#clip143)"
+       id="g4339"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(168,198)"
+         id="g4337"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4335"
+           style="fill:#000000;fill-opacity:1">f2</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip143 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4352"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clipccd61436-1669-401b-bbe5-d2548840635a">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4343" />
+    </clipPath>
+    <g
+       clip-path="url(#clip144)"
+       id="g4350"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(224,198)"
+         id="g4348"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4346"
+           style="fill:#000000;fill-opacity:1">f3</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip144 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4363"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip74ce38b5-17f6-475f-9ab1-1fc9a02c81ca">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4354" />
+    </clipPath>
+    <g
+       clip-path="url(#clip145)"
+       id="g4361"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(280,198)"
+         id="g4359"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4357"
+           style="fill:#000000;fill-opacity:1">f4</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip145 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4374"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip64a480b2-894b-4b96-b8fe-c3e18b296332">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4365" />
+    </clipPath>
+    <g
+       clip-path="url(#clip146)"
+       id="g4372"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(336,198)"
+         id="g4370"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4368"
+           style="fill:#000000;fill-opacity:1">f5</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip146 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4385"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clipc1ce5c48-5ffb-4afc-8747-bba01941194c">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4376" />
+    </clipPath>
+    <g
+       clip-path="url(#clip147)"
+       id="g4383"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(391,198)"
+         id="g4381"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4379"
+           style="fill:#000000;fill-opacity:1">f6</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip147 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4396"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clipd03c4d1a-ffde-4b97-9727-693b283ecb6f">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4387" />
+    </clipPath>
+    <g
+       clip-path="url(#clip148)"
+       id="g4394"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(447,198)"
+         id="g4392"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4390"
+           style="fill:#000000;fill-opacity:1">f7</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip148 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4407"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip26253e7f-e7bd-48c2-a00f-5826586a1d58">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4398" />
+    </clipPath>
+    <g
+       clip-path="url(#clip149)"
+       id="g4405"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(503,198)"
+         id="g4403"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4401"
+           style="fill:#000000;fill-opacity:1">f8</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip149 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4418"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip4c2e6190-8a0f-4b8d-bc13-a59210e88571">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4409" />
+    </clipPath>
+    <g
+       clip-path="url(#clip150)"
+       id="g4416"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(140,149)"
+         id="g4414"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4412"
+           style="fill:#000000;fill-opacity:1">g1</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip150 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4429"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clipafda83a3-d43a-4903-b340-b942f723fa62">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4420" />
+    </clipPath>
+    <g
+       clip-path="url(#clip151)"
+       id="g4427"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(196,149)"
+         id="g4425"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4423"
+           style="fill:#000000;fill-opacity:1">g2</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip151 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4440"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clipe770277a-8962-4375-897c-d8e0fdc2e4e1">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4431" />
+    </clipPath>
+    <g
+       clip-path="url(#clip152)"
+       id="g4438"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(252,149)"
+         id="g4436"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4434"
+           style="fill:#000000;fill-opacity:1">g3</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip152 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4451"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip68571239-e2b6-46bd-b45c-50cc16978a1b">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4442" />
+    </clipPath>
+    <g
+       clip-path="url(#clip153)"
+       id="g4449"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(308,149)"
+         id="g4447"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4445"
+           style="fill:#000000;fill-opacity:1">g4</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip153 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4462"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip6ded2c60-7e8a-47ce-96e4-fbe883a72847">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4453" />
+    </clipPath>
+    <g
+       clip-path="url(#clip154)"
+       id="g4460"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(364,149)"
+         id="g4458"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4456"
+           style="fill:#000000;fill-opacity:1">g5</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip154 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4473"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip8196e173-0686-4661-9f5f-5f68644886ce">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4464" />
+    </clipPath>
+    <g
+       clip-path="url(#clip155)"
+       id="g4471"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(419,149)"
+         id="g4469"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4467"
+           style="fill:#000000;fill-opacity:1">g6</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip155 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4484"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clipfc95e68e-49ff-4ddc-89b3-29d09ca11015">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4475" />
+    </clipPath>
+    <g
+       clip-path="url(#clip156)"
+       id="g4482"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(475,149)"
+         id="g4480"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4478"
+           style="fill:#000000;fill-opacity:1">g7</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip156 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4495"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip0e85c25e-27d6-4c69-9ac5-0e554732a2b0">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4486" />
+    </clipPath>
+    <g
+       clip-path="url(#clip157)"
+       id="g4493"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(112,101)"
+         id="g4491"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4489"
+           style="fill:#000000;fill-opacity:1">h1</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip157 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4506"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clipb8a0893a-4844-4b6f-94b5-8812c36dfa5a">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4497" />
+    </clipPath>
+    <g
+       clip-path="url(#clip158)"
+       id="g4504"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(168,101)"
+         id="g4502"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4500"
+           style="fill:#000000;fill-opacity:1">h2</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip158 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4517"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clipe14915ef-dec9-4316-b4fe-54aff9c65d57">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4508" />
+    </clipPath>
+    <g
+       clip-path="url(#clip159)"
+       id="g4515"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(224,101)"
+         id="g4513"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4511"
+           style="fill:#000000;fill-opacity:1">h3</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip159 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4528"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clipfb4497d9-5233-43f4-952e-a6037c3636bb">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4519" />
+    </clipPath>
+    <g
+       clip-path="url(#clip160)"
+       id="g4526"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(280,101)"
+         id="g4524"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4522"
+           style="fill:#000000;fill-opacity:1">h4</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip160 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4539"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip282e14a1-3615-4967-a0c1-43c560fe172c">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4530" />
+    </clipPath>
+    <g
+       clip-path="url(#clip161)"
+       id="g4537"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(336,101)"
+         id="g4535"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4533"
+           style="fill:#000000;fill-opacity:1">h5</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip161 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4550"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip0bdd7de6-c6c8-42b0-b89d-e565d416e9be">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4541" />
+    </clipPath>
+    <g
+       clip-path="url(#clip162)"
+       id="g4548"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(391,101)"
+         id="g4546"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4544"
+           style="fill:#000000;fill-opacity:1">h6</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip162 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4561"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip9efe27cf-0bf7-42f3-a260-f4d07642c1a9">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4552" />
+    </clipPath>
+    <g
+       clip-path="url(#clip163)"
+       id="g4559"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(447,101)"
+         id="g4557"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4555"
+           style="fill:#000000;fill-opacity:1">h7</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip163 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4572"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip13afcea0-3093-4e26-9eab-3a11a9f015dd">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4563" />
+    </clipPath>
+    <g
+       clip-path="url(#clip164)"
+       id="g4570"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(503,101)"
+         id="g4568"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4566"
+           style="fill:#000000;fill-opacity:1">h8</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip164 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4583"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clipb7b2c8fe-c4d0-4a42-9253-e4285ba3ba28">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4574" />
+    </clipPath>
+    <g
+       clip-path="url(#clip165)"
+       id="g4581"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(140,52)"
+         id="g4579"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4577"
+           style="fill:#000000;fill-opacity:1">i1</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip165 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4594"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clipc73af503-c441-46c8-995e-a537a8e4ef01">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4585" />
+    </clipPath>
+    <g
+       clip-path="url(#clip166)"
+       id="g4592"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(196,52)"
+         id="g4590"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4588"
+           style="fill:#000000;fill-opacity:1">i2</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip166 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4605"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip9c296e59-f5d2-482b-8c41-ea26d344ae48">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4596" />
+    </clipPath>
+    <g
+       clip-path="url(#clip167)"
+       id="g4603"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(252,52)"
+         id="g4601"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4599"
+           style="fill:#000000;fill-opacity:1">i3</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip167 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4616"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip1050a168-7b39-4c6d-906f-b31ed9b2f574">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4607" />
+    </clipPath>
+    <g
+       clip-path="url(#clip168)"
+       id="g4614"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(308,52)"
+         id="g4612"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4610"
+           style="fill:#000000;fill-opacity:1">i4</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip168 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4627"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip79ca3b66-fc4c-4ee4-a25d-f8f4cc9271cb">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4618" />
+    </clipPath>
+    <g
+       clip-path="url(#clip169)"
+       id="g4625"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(364,52)"
+         id="g4623"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4621"
+           style="fill:#000000;fill-opacity:1">i5</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip169 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4638"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clipd06616f4-bd80-4628-a3ff-704b827a0aee">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4629" />
+    </clipPath>
+    <g
+       clip-path="url(#clip170)"
+       id="g4636"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(419,52)"
+         id="g4634"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4632"
+           style="fill:#000000;fill-opacity:1">i6</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip170 -->
+  </g>
+  <g
+     transform="translate(2.5587,10.776)"
+     id="g4649"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip94270458-2eb1-4eab-90b1-cbecc3c481eb">
+      <path
+         d="M -2.5587,-10.776 V 475.22 H 670.44 V -10.776 Z"
+         id="path4640" />
+    </clipPath>
+    <g
+       clip-path="url(#clip171)"
+       id="g4647"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         transform="translate(475,52)"
+         id="g4645"
+         style="fill:#000000;fill-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="bold"
+           stroke="none"
+           fill="#000000"
+           font-size="12px"
+           x="0"
+           y="0"
+           id="text4643"
+           style="fill:#000000;fill-opacity:1">i7</text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip171 -->
+  </g>
+  <!-- default stroke -->
+</svg>
+<!-- bounding box -->
+

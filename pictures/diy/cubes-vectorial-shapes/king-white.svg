@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+
+<svg 
+     version="1.1"
+     baseProfile="full"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:ev="http://www.w3.org/2001/xml-events"
+     width="8.156425267590963cm"
+     height="8.156425267590963cm"
+     viewBox="0 0 80 80"
+     >
+<title>
+
+</title>
+<g stroke-linejoin="miter" stroke-dashoffset="0.0000" stroke-dasharray="none" stroke-width="1.0000" stroke-miterlimit="10.000" stroke-linecap="square">
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -2.7129, -3.9006)">
+<clipPath id="clipcd9c06e8-e01d-4412-a867-d22d259f02b1">
+  <path d="M 2.7129 3.9006 L 2.7129 84.901 L 83.713 84.901 L 83.713 3.9006 z"/>
+</clipPath>
+<g clip-path="url(#clip1)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#ffffff">
+  <path d="M 0.0000 0.0000 L 591.00 0.0000 L 591.00 606.00 L 0.0000 606.00 L 0.0000 0.0000 z"/>
+</g> <!-- drawing style -->
+</g> <!-- clip1 -->
+</g> <!-- transform -->
+<g id="misc">
+</g><!-- misc -->
+<g id="layer0">
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -2.7129, -3.9006)">
+<clipPath id="clipa8476564-f019-44fc-b346-5b7e38bddbf3">
+  <path d="M 2.7129 3.9006 L 2.7129 84.901 L 83.713 84.901 L 83.713 3.9006 z"/>
+</clipPath>
+<g clip-path="url(#clip2)">
+<g fill-opacity="1.0000" fill-rule="evenodd" stroke="none" fill="#ffffff">
+  <path d="M 3.1101 4.2979 L 82.557 4.2979 L 82.557 83.744 L 3.1101 83.744 z"/>
+<title>Quadrilatère square_{Ext}</title>
+<desc>Quadrilatère square_{Ext}: Polygone NW_{Ext}, NE_{Ext}, SE_{Ext}, SW_{Ext}</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip2 -->
+</g> <!-- transform -->
+</g><!-- layer0 -->
+<g id="layer1">
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -2.7129, -3.9006)">
+<clipPath id="clip1a17905f-c316-441e-84b7-ad0de6aa9078">
+  <path d="M 2.7129 3.9006 L 2.7129 84.901 L 83.713 84.901 L 83.713 3.9006 z"/>
+</clipPath>
+<g clip-path="url(#clip3)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 3.1101 4.2979 L 82.557 4.2979"/>
+<title>Segment s_{NExt}</title>
+<desc>Segment s_{NExt}: Segment [NW_{Ext}NE_{Ext}]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip3 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -2.7129, -3.9006)">
+<clipPath id="clip72afe09b-1a2a-4d50-812d-3aeb4d29a14b">
+  <path d="M 2.7129 3.9006 L 2.7129 84.901 L 83.713 84.901 L 83.713 3.9006 z"/>
+</clipPath>
+<g clip-path="url(#clip4)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 82.557 4.2979 L 82.557 83.744"/>
+<title>Segment s_{EExt}</title>
+<desc>Segment s_{EExt}: Segment [NE_{Ext}SE_{Ext}]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip4 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -2.7129, -3.9006)">
+<clipPath id="clip5237f61b-49ce-41ca-ad91-12e71b017e2b">
+  <path d="M 2.7129 3.9006 L 2.7129 84.901 L 83.713 84.901 L 83.713 3.9006 z"/>
+</clipPath>
+<g clip-path="url(#clip5)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 82.557 83.744 L 3.1101 83.744"/>
+<title>Segment s_{SExt}</title>
+<desc>Segment s_{SExt}: Segment [SE_{Ext}SW_{Ext}]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip5 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -2.7129, -3.9006)">
+<clipPath id="clip4026799e-0c35-4b9d-af24-90a4e816f3be">
+  <path d="M 2.7129 3.9006 L 2.7129 84.901 L 83.713 84.901 L 83.713 3.9006 z"/>
+</clipPath>
+<g clip-path="url(#clip6)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 3.1101 83.744 L 3.1101 4.2979"/>
+<title>Segment s_{WExt}</title>
+<desc>Segment s_{WExt}: Segment [SW_{Ext}NW_{Ext}]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip6 -->
+</g> <!-- transform -->
+</g><!-- layer1 -->
+<defs>
+
+</defs> <!-- font definitions -->
+</g> <!-- default stroke -->
+</svg> <!-- bounding box -->

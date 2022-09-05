@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+
+<svg 
+     version="1.1"
+     baseProfile="full"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:ev="http://www.w3.org/2001/xml-events"
+     width="8.156425267590963cm"
+     height="8.156425267590963cm"
+     viewBox="0 0 80 80"
+     >
+<title>
+
+</title>
+<g stroke-linejoin="miter" stroke-dashoffset="0.0000" stroke-dasharray="none" stroke-width="1.0000" stroke-miterlimit="10.000" stroke-linecap="square">
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -2.7129, -3.9006)">
+<clipPath id="clipec3afaca-87d3-4c41-aaf7-0841d9865d3e">
+  <path d="M 2.7129 3.9006 L 2.7129 84.901 L 83.713 84.901 L 83.713 3.9006 z"/>
+</clipPath>
+<g clip-path="url(#clip1)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#ffffff">
+  <path d="M 0.0000 0.0000 L 591.00 0.0000 L 591.00 606.00 L 0.0000 606.00 L 0.0000 0.0000 z"/>
+</g> <!-- drawing style -->
+</g> <!-- clip1 -->
+</g> <!-- transform -->
+<g id="misc">
+</g><!-- misc -->
+<g id="layer0">
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -2.7129, -3.9006)">
+<clipPath id="clip46c5ff51-98ce-4227-8e22-8776c68be562">
+  <path d="M 2.7129 3.9006 L 2.7129 84.901 L 83.713 84.901 L 83.713 3.9006 z"/>
+</clipPath>
+<g clip-path="url(#clip2)">
+<g fill-opacity="1.0000" fill-rule="evenodd" stroke="none" fill="#ffffff">
+  <path d="M 3.1101 4.2979 L 82.557 4.2979 L 82.557 83.744 L 3.1101 83.744 z"/>
+<title>Quadrilatère square_{Ext}</title>
+<desc>Quadrilatère square_{Ext}: Polygone NW_{Ext}, NE_{Ext}, SE_{Ext}, SW_{Ext}</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip2 -->
+</g> <!-- transform -->
+</g><!-- layer0 -->
+<g id="layer1">
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -2.7129, -3.9006)">
+<clipPath id="clipdc790179-eeba-4e62-bd97-b7f0b18ef1f5">
+  <path d="M 2.7129 3.9006 L 2.7129 84.901 L 83.713 84.901 L 83.713 3.9006 z"/>
+</clipPath>
+<g clip-path="url(#clip3)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 3.1101 4.2979 L 82.557 4.2979"/>
+<title>Segment s_{NExt}</title>
+<desc>Segment s_{NExt}: Segment [NW_{Ext}NE_{Ext}]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip3 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -2.7129, -3.9006)">
+<clipPath id="clip22e9bff7-4be4-464e-bde5-4863bd00e6e6">
+  <path d="M 2.7129 3.9006 L 2.7129 84.901 L 83.713 84.901 L 83.713 3.9006 z"/>
+</clipPath>
+<g clip-path="url(#clip4)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 82.557 4.2979 L 82.557 83.744"/>
+<title>Segment s_{EExt}</title>
+<desc>Segment s_{EExt}: Segment [NE_{Ext}SE_{Ext}]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip4 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -2.7129, -3.9006)">
+<clipPath id="clipc0a7506f-a593-4324-8fdc-aa9bc0955112">
+  <path d="M 2.7129 3.9006 L 2.7129 84.901 L 83.713 84.901 L 83.713 3.9006 z"/>
+</clipPath>
+<g clip-path="url(#clip5)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 82.557 83.744 L 3.1101 83.744"/>
+<title>Segment s_{SExt}</title>
+<desc>Segment s_{SExt}: Segment [SE_{Ext}SW_{Ext}]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip5 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -2.7129, -3.9006)">
+<clipPath id="clip5314d05c-6a3e-4267-8fe5-af70678647d4">
+  <path d="M 2.7129 3.9006 L 2.7129 84.901 L 83.713 84.901 L 83.713 3.9006 z"/>
+</clipPath>
+<g clip-path="url(#clip6)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 3.1101 83.744 L 3.1101 4.2979"/>
+<title>Segment s_{WExt}</title>
+<desc>Segment s_{WExt}: Segment [SW_{Ext}NW_{Ext}]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip6 -->
+</g> <!-- transform -->
+</g><!-- layer1 -->
+<g id="layer2">
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -2.7129, -3.9006)">
+<clipPath id="clipd46eb13a-2351-4c6a-a1c6-d18b30ef3cff">
+  <path d="M 2.7129 3.9006 L 2.7129 84.901 L 83.713 84.901 L 83.713 3.9006 z"/>
+</clipPath>
+<g clip-path="url(#clip7)">
+<g stroke-linejoin="round" stroke-width="6.5000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 42.833 67.855 C 55.997 67.855 66.667 57.184 66.667 44.021 C 66.667 30.858 55.997 20.187 42.833 20.187"/>
+<title>Arc c_1</title>
+<desc>Arc c_1: Demi-cercle défini par N_{Int} et S_{Int}</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip7 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -2.7129, -3.9006)">
+<clipPath id="clip161a3317-807d-4177-8175-8bbd35141918">
+  <path d="M 2.7129 3.9006 L 2.7129 84.901 L 83.713 84.901 L 83.713 3.9006 z"/>
+</clipPath>
+<g clip-path="url(#clip8)">
+<g stroke-linejoin="round" stroke-width="6.5000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 42.833 20.187 C 36.512 20.187 30.450 22.698 25.980 27.168"/>
+<title>Arc c_0</title>
+<desc>Arc c_0: ArcCercle(O, N_{Int}, NW_{Int})</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip8 -->
+</g> <!-- transform -->
+</g><!-- layer2 -->
+<g id="layer8">
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -2.7129, -3.9006)">
+<clipPath id="clip9c3bcd93-07ea-4b94-8a21-d82e99f430a9">
+  <path d="M 2.7129 3.9006 L 2.7129 84.901 L 83.713 84.901 L 83.713 3.9006 z"/>
+</clipPath>
+<g clip-path="url(#clip9)">
+<g stroke-linejoin="round" stroke-width="6.5000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 42.833 44.021 C 36.252 44.021 30.916 49.357 30.916 55.938 C 30.916 62.520 36.252 67.855 42.833 67.855"/>
+<title>Arc c_2</title>
+<desc>Arc c_2: Demi-cercle défini par S_{Int} et O</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip9 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -2.7129, -3.9006)">
+<clipPath id="clip75282303-5ec6-40b6-83fa-c0cffa8f327d">
+  <path d="M 2.7129 3.9006 L 2.7129 84.901 L 83.713 84.901 L 83.713 3.9006 z"/>
+</clipPath>
+<g clip-path="url(#clip10)">
+<g stroke-linejoin="round" stroke-width="6.5000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 42.833 55.938 C 46.124 55.938 48.792 53.270 48.792 49.980 C 48.792 46.689 46.124 44.021 42.833 44.021"/>
+<title>Arc c_3</title>
+<desc>Arc c_3: Demi-cercle défini par O et A</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip10 -->
+</g> <!-- transform -->
+</g><!-- layer8 -->
+<g id="layer9">
+</g><!-- layer9 -->
+<defs>
+
+</defs> <!-- font definitions -->
+</g> <!-- default stroke -->
+</svg> <!-- bounding box -->
