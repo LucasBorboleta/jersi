@@ -10,6 +10,8 @@ To get a taste of the game watch this 3 minutes video: [**JERSI demo play**](htt
 
 Unless you are interested in the latest rules being under construction, it is better to read the released versions either in directory [**releases**](./releases) or at GitHub URL [**releases**](https://github.com/LucasBorboleta/jersi/releases).
 
+For making yourself your own JERSI copy -- for non-commercial usage -- read the [**DIY**](./DIY.md) document.
+
 Any *feedback* on the text or even on the game play is welcome!
 
 The **roadmap** is  as follows:
@@ -17,7 +19,7 @@ The **roadmap** is  as follows:
 - [x] Publish JERSI for free in the *Tabletopia* catalog.
 - [x] Implement JERSI into an *AI engines* (minimax and MCTS ; see *jersi-certu* project at GitHub).
 - [ ] Implement JERSI on Bord Game Arena.
-- [x] With the aid of a publisher partner, launch a *Kickstarter* campaign to physically publish JERSI. 
+- [ ] Find a publisher to physically publish JERSI. 
 
 If you intent to derive or to sell either a text, a product or a software from this work, then read the [**LICENSE**](./docs/LICENSE.md) document. 
 
