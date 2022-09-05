@@ -18,15 +18,16 @@ The next DIY methods 1 and 2 have been applied to the project [Jersi](https://gi
 
 - Making the board:
   - Buy a wooden board of size 40 cm x 36 cm (left-to-right x front-back).
-  - Print the hexagon template of 4 cm width from the A4 page [hexagon-template-2cm](https://github.com/LucasBorboleta/jersi/blob/master/pictures/diy/hexagon-template-2cm.pdf) and used it together with a ruler to draw the board.
+  - Print a few hexagon templates of 4 cm width from the A4 page [hexagon-template-2cm](https://github.com/LucasBorboleta/jersi/blob/master/pictures/diy/hexagon-template-2cm.pdf) and used them together with a ruler to draw the board.
   - Paint the hexagons of the board using colored varnishes.
 
 
 ## Method 2
 - Making the cubes:
+  - Buy wooden painted cubes of 1.6 cm size : 21 whites and 21 blacks.
   - Instead of gluing shapes of cube faces, as in [Method 1](#Method-1), draw the shapes using a felt pen with the help of a drawing template ruler.
   - Since white felt pen is merely "white paint pen" which tends to get erased, an alternate option is to
     replace black cubes by red cubes and to mark their faces using a black felt pen.
 - Making the board:
-  - Instead of drawing and painted the hexagons, as in [Method 1](#Method-1), print the A3 page [jersi_board_a3_wor_2c](https://github.com/LucasBorboleta/jersi/blob/master/pictures/diy/boards/jersi_board_a3_wor_2c.pdf)
-  - Glue the printed A3 page (after cutting some edges) to a wooden board of size 32cm x 29cm (left-to-right x front-back).
+  - Instead of drawing and painting the hexagons, as in [Method 1](#Method-1), print the A3 page [jersi_board_a3_wor_2c](https://github.com/LucasBorboleta/jersi/blob/master/pictures/diy/boards/jersi_board_a3_wor_2c.pdf).
+  - Glue the printed A3 page (after cutting a bit its edges) to a wooden board of size 32 cm x 29 cm (left-to-right x front-back).
