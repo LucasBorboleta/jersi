@@ -8,6 +8,8 @@ JERSI describes the rules of a **strategy game** for two players:
 
 To get a taste of the game watch this 3 minutes video: [**JERSI demo play**](https://www.youtube.com/watch?v=Cgo8AJnYCfA). To learn the rules of the game: either read the rulebook document or watch this 11 minutes rulebook video: [**JERSI rulebook video**](https://www.youtube.com/watch?v=9613QXbaYjo) (also available in French). To go further, play the game with your friend on **[Tabletopia](https://tabletopia.com/games/jersi)** platform .
 
+Jersi  is registered in the famous [**BoardGameGeek**](https://boardgamegeek.com) database under the [**ID 369835**](https://boardgamegeek.com/boardgame/369835/jersi), thanks to some unknown contributor.
+
 Unless you are interested in the latest rules being under construction, it is better to read the released versions either in directory [**releases**](./releases) or at GitHub URL [**releases**](https://github.com/LucasBorboleta/jersi/releases).
 
 For making yourself your own JERSI copy -- for non-commercial usage -- read the [**DIY**](./DIY.md) document.
